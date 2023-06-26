@@ -1,0 +1,1194 @@
+batsmen,Batting Pos,out_notout,runs,balls,fours,sixes,sr,team,Match_id,Ground,Date
+Devon Conway,1,out,1,6.0,0.0,0.0,16.66,Chennai Super Kings,1st, Ahmedabad, March 31
+Ruturaj Gaikwad,2,out,92,50.0,4.0,9.0,184,Chennai Super Kings,1st, Ahmedabad, March 31
+Moeen Ali,3,out,23,17.0,4.0,1.0,135.29,Chennai Super Kings,1st, Ahmedabad, March 31
+Ben Stokes,4,out,7,6.0,1.0,0.0,116.66,Chennai Super Kings,1st, Ahmedabad, March 31
+Ambati Rayudu,5,out,12,12.0,0.0,1.0,100,Chennai Super Kings,1st, Ahmedabad, March 31
+Shivam Dube,6,out,19,18.0,0.0,1.0,105.55,Chennai Super Kings,1st, Ahmedabad, March 31
+Ravindra Jadeja,7,out,1,2.0,0.0,0.0,50,Chennai Super Kings,1st, Ahmedabad, March 31
+MS Dhoni (c)†,8,not out,14,7.0,1.0,1.0,200,Chennai Super Kings,1st, Ahmedabad, March 31
+Mitchell Santner,9,not out,1,3.0,0.0,0.0,33.33,Chennai Super Kings,1st, Ahmedabad, March 31
+Wriddhiman Saha †,1,out,25,16.0,2.0,2.0,156.25,Gujarat Titans,1st, Ahmedabad, March 31
+Shubman Gill,2,out,63,36.0,6.0,3.0,175,Gujarat Titans,1st, Ahmedabad, March 31
+Sai Sudharsan,3,out,22,17.0,3.0,0.0,129.41,Gujarat Titans,1st, Ahmedabad, March 31
+Hardik Pandya (c),4,out,8,11.0,0.0,0.0,72.72,Gujarat Titans,1st, Ahmedabad, March 31
+Vijay Shankar,5,out,27,21.0,2.0,1.0,128.57,Gujarat Titans,1st, Ahmedabad, March 31
+Rahul Tewatia,6,not out,15,14.0,1.0,1.0,107.14,Gujarat Titans,1st, Ahmedabad, March 31
+Rashid Khan,7,not out,10,3.0,1.0,1.0,333.33,Gujarat Titans,1st, Ahmedabad, March 31
+Prabhsimran Singh,1,out,23,12.0,2.0,2.0,191.66,Punjab Kings,2nd, Mohali, April 01
+Shikhar Dhawan (c),2,out,40,29.0,6.0,0.0,137.93,Punjab Kings,2nd, Mohali, April 01
+Bhanuka Rajapaksa,3,out,50,32.0,5.0,2.0,156.25,Punjab Kings,2nd, Mohali, April 01
+Jitesh Sharma †,4,out,21,11.0,1.0,2.0,190.9,Punjab Kings,2nd, Mohali, April 01
+Sikandar Raza,5,out,16,13.0,1.0,1.0,123.07,Punjab Kings,2nd, Mohali, April 01
+Sam Curran,6,not out,26,17.0,0.0,2.0,152.94,Punjab Kings,2nd, Mohali, April 01
+M Shahrukh Khan,7,not out,11,7.0,2.0,0.0,157.14,Punjab Kings,2nd, Mohali, April 01
+Mandeep Singh,1,out,2,4.0,0.0,0.0,50,Kolkata Knight Riders,2nd, Mohali, April 01
+Rahmanullah Gurbaz †,2,out,22,16.0,3.0,1.0,137.5,Kolkata Knight Riders,2nd, Mohali, April 01
+Anukul Roy,3,out,4,5.0,1.0,0.0,80,Kolkata Knight Riders,2nd, Mohali, April 01
+Venkatesh Iyer,4,out,34,28.0,3.0,1.0,121.42,Kolkata Knight Riders,2nd, Mohali, April 01
+Nitish Rana (c),5,out,24,17.0,3.0,1.0,141.17,Kolkata Knight Riders,2nd, Mohali, April 01
+Rinku Singh,6,out,4,4.0,0.0,0.0,100,Kolkata Knight Riders,2nd, Mohali, April 01
+Andre Russell,7,out,35,19.0,3.0,2.0,184.21,Kolkata Knight Riders,2nd, Mohali, April 01
+Shardul Thakur,8,not out,8,3.0,0.0,1.0,266.66,Kolkata Knight Riders,2nd, Mohali, April 01
+Sunil Narine,9,not out,7,2.0,0.0,1.0,350,Kolkata Knight Riders,2nd, Mohali, April 01
+KL Rahul (c),1,out,8,12.0,0.0,1.0,66.66,Lucknow Super Giants,3rd, Lucknow, April 01
+Kyle Mayers,2,out,73,38.0,2.0,7.0,192.1,Lucknow Super Giants,3rd, Lucknow, April 01
+Deepak Hooda,3,out,17,18.0,0.0,0.0,94.44,Lucknow Super Giants,3rd, Lucknow, April 01
+Krunal Pandya,4,not out,15,13.0,0.0,1.0,115.38,Lucknow Super Giants,3rd, Lucknow, April 01
+Marcus Stoinis,5,out,12,10.0,0.0,1.0,120,Lucknow Super Giants,3rd, Lucknow, April 01
+Nicholas Pooran †,6,out,36,21.0,2.0,3.0,171.42,Lucknow Super Giants,3rd, Lucknow, April 01
+Ayush Badoni,7,out,18,7.0,1.0,2.0,257.14,Lucknow Super Giants,3rd, Lucknow, April 01
+Krishnappa Gowtham,8,not out,6,1.0,0.0,1.0,600,Lucknow Super Giants,3rd, Lucknow, April 01
+Prithvi Shaw,1,out,12,9.0,2.0,0.0,133.33,Delhi Capitals,3rd, Lucknow, April 01
+David Warner (c),2,out,56,48.0,7.0,0.0,116.66,Delhi Capitals,3rd, Lucknow, April 01
+Mitchell Marsh,3,out,0,1.0,0.0,0.0,0,Delhi Capitals,3rd, Lucknow, April 01
+Sarfaraz Khan †,4,out,4,9.0,1.0,0.0,44.44,Delhi Capitals,3rd, Lucknow, April 01
+Rilee Rossouw,5,out,30,20.0,3.0,1.0,150,Delhi Capitals,3rd, Lucknow, April 01
+Rovman Powell,6,out,1,3.0,0.0,0.0,33.33,Delhi Capitals,3rd, Lucknow, April 01
+Aman Hakim Khan,7,out,4,5.0,0.0,0.0,80,Delhi Capitals,3rd, Lucknow, April 01
+Axar Patel,8,out,16,11.0,1.0,1.0,145.45,Delhi Capitals,3rd, Lucknow, April 01
+Kuldeep Yadav,9,not out,6,10.0,0.0,0.0,60,Delhi Capitals,3rd, Lucknow, April 01
+Chetan Sakariya,10,out,4,4.0,1.0,0.0,100,Delhi Capitals,3rd, Lucknow, April 01
+Mukesh Kumar,11,not out,0,1.0,0.0,0.0,0,Delhi Capitals,3rd, Lucknow, April 01
+Yashasvi Jaiswal,1,out,54,37.0,9.0,0.0,145.94,Rajasthan Royals,4th, Hyderabad, April 02
+Jos Buttler,2,out,54,22.0,7.0,3.0,245.45,Rajasthan Royals,4th, Hyderabad, April 02
+Sanju Samson (c)†,3,out,55,32.0,3.0,4.0,171.87,Rajasthan Royals,4th, Hyderabad, April 02
+Devdutt Padikkal,4,out,2,5.0,0.0,0.0,40,Rajasthan Royals,4th, Hyderabad, April 02
+Riyan Parag,5,out,7,6.0,1.0,0.0,116.66,Rajasthan Royals,4th, Hyderabad, April 02
+Shimron Hetmyer,6,not out,22,16.0,1.0,1.0,137.5,Rajasthan Royals,4th, Hyderabad, April 02
+Ravichandran Ashwin,7,not out,1,2.0,0.0,0.0,50,Rajasthan Royals,4th, Hyderabad, April 02
+Abhishek Sharma,1,out,0,3.0,0.0,0.0,0,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Mayank Agarwal,2,out,27,23.0,3.0,0.0,117.39,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Rahul Tripathi,3,out,0,2.0,0.0,0.0,0,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Harry Brook,4,out,13,21.0,1.0,0.0,61.9,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Washington Sundar,5,out,1,5.0,0.0,0.0,20,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Glenn Phillips †,6,out,8,6.0,0.0,1.0,133.33,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Abdul Samad,7,not out,32,32.0,2.0,1.0,100,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Adil Rashid,8,out,18,13.0,1.0,1.0,138.46,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Bhuvneshwar Kumar (c),9,out,6,10.0,0.0,0.0,60,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Umran Malik,10,not out,19,8.0,1.0,2.0,237.5,Sunrisers Hyderabad,4th, Hyderabad, April 02
+Rohit Sharma (c),1,out,1,10.0,0.0,0.0,10,Mumbai Indians,5th, Bengaluru, April 02
+Ishan Kishan †,2,out,10,13.0,2.0,0.0,76.92,Mumbai Indians,5th, Bengaluru, April 02
+Cameron Green,3,out,5,4.0,1.0,0.0,125,Mumbai Indians,5th, Bengaluru, April 02
+Suryakumar Yadav,4,out,15,16.0,1.0,0.0,93.75,Mumbai Indians,5th, Bengaluru, April 02
+Tilak Varma,5,not out,84,46.0,9.0,4.0,182.6,Mumbai Indians,5th, Bengaluru, April 02
+Nehal Wadhera,6,out,21,13.0,1.0,2.0,161.53,Mumbai Indians,5th, Bengaluru, April 02
+Tim David,7,out,4,7.0,0.0,0.0,57.14,Mumbai Indians,5th, Bengaluru, April 02
+Hrithik Shokeen,8,out,5,3.0,1.0,0.0,166.66,Mumbai Indians,5th, Bengaluru, April 02
+Arshad Khan,9,not out,15,9.0,0.0,1.0,166.66,Mumbai Indians,5th, Bengaluru, April 02
+Virat Kohli,1,not out,82,49.0,6.0,5.0,167.34,Royal Challengers Bangalore,5th, Bengaluru, April 02
+Faf du Plessis (c),2,out,73,43.0,5.0,6.0,169.76,Royal Challengers Bangalore,5th, Bengaluru, April 02
+Dinesh Karthik †,3,out,0,3.0,0.0,0.0,0,Royal Challengers Bangalore,5th, Bengaluru, April 02
+Glenn Maxwell,4,not out,12,3.0,0.0,2.0,400,Royal Challengers Bangalore,5th, Bengaluru, April 02
+Ruturaj Gaikwad,1,out,57,31.0,3.0,4.0,183.87,Chennai Super Kings,6th, Chennai, April 03
+Devon Conway,2,out,47,29.0,5.0,2.0,162.06,Chennai Super Kings,6th, Chennai, April 03
+Shivam Dube,3,out,27,16.0,1.0,3.0,168.75,Chennai Super Kings,6th, Chennai, April 03
+Moeen Ali,4,out,19,13.0,3.0,0.0,146.15,Chennai Super Kings,6th, Chennai, April 03
+Ben Stokes,5,out,8,8.0,1.0,0.0,100,Chennai Super Kings,6th, Chennai, April 03
+Ambati Rayudu,6,not out,27,14.0,2.0,2.0,192.85,Chennai Super Kings,6th, Chennai, April 03
+Ravindra Jadeja,7,out,3,6.0,0.0,0.0,50,Chennai Super Kings,6th, Chennai, April 03
+MS Dhoni (c)†,8,out,12,3.0,0.0,2.0,400,Chennai Super Kings,6th, Chennai, April 03
+Mitchell Santner,9,not out,1,1.0,0.0,0.0,100,Chennai Super Kings,6th, Chennai, April 03
+KL Rahul (c),1,out,20,18.0,2.0,0.0,111.11,Lucknow Super Giants,6th, Chennai, April 03
+Kyle Mayers,2,out,53,22.0,8.0,2.0,240.9,Lucknow Super Giants,6th, Chennai, April 03
+Deepak Hooda,3,out,2,6.0,0.0,0.0,33.33,Lucknow Super Giants,6th, Chennai, April 03
+Krunal Pandya,4,out,9,9.0,0.0,1.0,100,Lucknow Super Giants,6th, Chennai, April 03
+Marcus Stoinis,5,out,21,18.0,0.0,1.0,116.66,Lucknow Super Giants,6th, Chennai, April 03
+Nicholas Pooran †,6,out,32,18.0,2.0,3.0,177.77,Lucknow Super Giants,6th, Chennai, April 03
+Ayush Badoni,7,out,23,18.0,0.0,0.0,127.77,Lucknow Super Giants,6th, Chennai, April 03
+Krishnappa Gowtham,8,not out,17,11.0,0.0,1.0,154.54,Lucknow Super Giants,6th, Chennai, April 03
+Mark Wood,9,not out,10,3.0,1.0,1.0,333.33,Lucknow Super Giants,6th, Chennai, April 03
+David Warner (c),1,out,37,32.0,7.0,0.0,115.62,Delhi Capitals,7th, Delhi, April 04
+Prithvi Shaw,2,out,7,5.0,1.0,0.0,140,Delhi Capitals,7th, Delhi, April 04
+Mitchell Marsh,3,out,4,4.0,1.0,0.0,100,Delhi Capitals,7th, Delhi, April 04
+Sarfaraz Khan,4,out,30,34.0,2.0,0.0,88.23,Delhi Capitals,7th, Delhi, April 04
+Rilee Rossouw,5,out,0,1.0,0.0,0.0,0,Delhi Capitals,7th, Delhi, April 04
+Abishek Porel †,6,out,20,11.0,0.0,2.0,181.81,Delhi Capitals,7th, Delhi, April 04
+Axar Patel,7,out,36,22.0,2.0,3.0,163.63,Delhi Capitals,7th, Delhi, April 04
+Aman Hakim Khan,8,out,8,8.0,0.0,1.0,100,Delhi Capitals,7th, Delhi, April 04
+Kuldeep Yadav,9,not out,1,1.0,0.0,0.0,100,Delhi Capitals,7th, Delhi, April 04
+Anrich Nortje,10,not out,4,2.0,1.0,0.0,200,Delhi Capitals,7th, Delhi, April 04
+Wriddhiman Saha †,1,out,14,7.0,2.0,1.0,200,Gujarat Titans,7th, Delhi, April 04
+Shubman Gill,2,out,14,13.0,3.0,0.0,107.69,Gujarat Titans,7th, Delhi, April 04
+Sai Sudharsan,3,not out,62,48.0,4.0,2.0,129.16,Gujarat Titans,7th, Delhi, April 04
+Hardik Pandya (c),4,out,5,4.0,1.0,0.0,125,Gujarat Titans,7th, Delhi, April 04
+Vijay Shankar,5,out,29,23.0,3.0,0.0,126.08,Gujarat Titans,7th, Delhi, April 04
+David Miller,6,not out,31,16.0,2.0,2.0,193.75,Gujarat Titans,7th, Delhi, April 04
+Prabhsimran Singh,1,out,60,34.0,7.0,3.0,176.47,Punjab Kings,8th, Guwahati, April 05
+Shikhar Dhawan (c),2,not out,86,56.0,9.0,3.0,153.57,Punjab Kings,8th, Guwahati, April 05
+Bhanuka Rajapaksa,3,out,1,1.0,0.0,0.0,100,Punjab Kings,8th, Guwahati, April 05
+Jitesh Sharma †,4,out,27,16.0,2.0,1.0,168.75,Punjab Kings,8th, Guwahati, April 05
+Sikandar Raza,5,out,1,2.0,0.0,0.0,50,Punjab Kings,8th, Guwahati, April 05
+M Shahrukh Khan,6,out,11,10.0,1.0,0.0,110,Punjab Kings,8th, Guwahati, April 05
+Sam Curran,7,not out,1,2.0,0.0,0.0,50,Punjab Kings,8th, Guwahati, April 05
+Yashasvi Jaiswal,1,out,11,8.0,1.0,1.0,137.5,Rajasthan Royals,8th, Guwahati, April 05
+Ravichandran Ashwin,2,out,0,4.0,0.0,0.0,0,Rajasthan Royals,8th, Guwahati, April 05
+Jos Buttler,3,out,19,11.0,1.0,1.0,172.72,Rajasthan Royals,8th, Guwahati, April 05
+Sanju Samson (c)†,4,out,42,25.0,5.0,1.0,168,Rajasthan Royals,8th, Guwahati, April 05
+Devdutt Padikkal,5,out,21,26.0,1.0,0.0,80.76,Rajasthan Royals,8th, Guwahati, April 05
+Riyan Parag,6,out,20,12.0,1.0,2.0,166.66,Rajasthan Royals,8th, Guwahati, April 05
+Shimron Hetmyer,7,out,36,18.0,1.0,3.0,200,Rajasthan Royals,8th, Guwahati, April 05
+Dhruv Jurel,8,not out,32,15.0,3.0,2.0,213.33,Rajasthan Royals,8th, Guwahati, April 05
+Jason Holder,9,not out,1,1.0,0.0,0.0,100,Rajasthan Royals,8th, Guwahati, April 05
+Rahmanullah Gurbaz †,1,out,57,44.0,6.0,3.0,129.54,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Venkatesh Iyer,2,out,3,7.0,0.0,0.0,42.85,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Mandeep Singh,3,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Nitish Rana (c),4,out,1,5.0,0.0,0.0,20,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Rinku Singh,5,out,46,33.0,2.0,3.0,139.39,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Andre Russell,6,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Shardul Thakur,7,out,68,29.0,9.0,3.0,234.48,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Sunil Narine,8,not out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Umesh Yadav,9,not out,6,2.0,1.0,0.0,300,Kolkata Knight Riders,9th, Eden Gardens, April 06
+Virat Kohli,1,out,21,18.0,3.0,0.0,116.66,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Faf du Plessis (c),2,out,23,12.0,2.0,2.0,191.66,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Michael Bracewell,3,out,19,18.0,1.0,1.0,105.55,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Glenn Maxwell,4,out,5,7.0,1.0,0.0,71.42,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Harshal Patel,5,out,0,2.0,0.0,0.0,0,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Shahbaz Ahmed,6,out,1,5.0,0.0,0.0,20,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Dinesh Karthik †,7,out,9,8.0,1.0,0.0,112.5,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Anuj Rawat,8,out,1,5.0,0.0,0.0,20,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+David Willey,9,not out,20,20.0,2.0,0.0,100,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Karn Sharma,10,out,1,3.0,0.0,0.0,33.33,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Akash Deep,11,out,17,8.0,2.0,1.0,212.5,Royal Challengers Bangalore,9th, Eden Gardens, April 06
+Anmolpreet Singh †,1,out,31,26.0,3.0,1.0,119.23,Sunrisers Hyderabad,10th, Lucknow, April 07
+Mayank Agarwal,2,out,8,7.0,1.0,0.0,114.28,Sunrisers Hyderabad,10th, Lucknow, April 07
+Rahul Tripathi,3,out,34,41.0,4.0,0.0,82.92,Sunrisers Hyderabad,10th, Lucknow, April 07
+Aiden Markram (c),4,out,0,1.0,0.0,0.0,0,Sunrisers Hyderabad,10th, Lucknow, April 07
+Harry Brook,5,out,3,4.0,0.0,0.0,75,Sunrisers Hyderabad,10th, Lucknow, April 07
+Washington Sundar,6,out,16,28.0,0.0,0.0,57.14,Sunrisers Hyderabad,10th, Lucknow, April 07
+Abdul Samad,7,not out,21,10.0,1.0,2.0,210,Sunrisers Hyderabad,10th, Lucknow, April 07
+Adil Rashid,8,out,4,3.0,1.0,0.0,133.33,Sunrisers Hyderabad,10th, Lucknow, April 07
+Umran Malik,9,out,0,0.0,0.0,0.0,-,Sunrisers Hyderabad,10th, Lucknow, April 07
+Bhuvneshwar Kumar,10,not out,0,0.0,0.0,0.0,-,Sunrisers Hyderabad,10th, Lucknow, April 07
+Kyle Mayers,1,out,13,14.0,2.0,0.0,92.85,Lucknow Super Giants,10th, Lucknow, April 07
+KL Rahul (c),2,out,35,31.0,4.0,0.0,112.9,Lucknow Super Giants,10th, Lucknow, April 07
+Deepak Hooda,3,out,7,8.0,0.0,1.0,87.5,Lucknow Super Giants,10th, Lucknow, April 07
+Krunal Pandya,4,out,34,23.0,4.0,1.0,147.82,Lucknow Super Giants,10th, Lucknow, April 07
+Marcus Stoinis,5,not out,10,13.0,2.0,0.0,76.92,Lucknow Super Giants,10th, Lucknow, April 07
+Romario Shepherd,6,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,10th, Lucknow, April 07
+Nicholas Pooran †,7,not out,11,6.0,1.0,1.0,183.33,Lucknow Super Giants,10th, Lucknow, April 07
+Yashasvi Jaiswal,1,out,60,31.0,11.0,1.0,193.54,Rajasthan Royals,11th, Guwahati, April 08
+Jos Buttler,2,out,79,51.0,11.0,1.0,154.9,Rajasthan Royals,11th, Guwahati, April 08
+Sanju Samson (c)†,3,out,0,4.0,0.0,0.0,0,Rajasthan Royals,11th, Guwahati, April 08
+Riyan Parag,4,out,7,11.0,0.0,0.0,63.63,Rajasthan Royals,11th, Guwahati, April 08
+Shimron Hetmyer,5,not out,39,21.0,1.0,4.0,185.71,Rajasthan Royals,11th, Guwahati, April 08
+Dhruv Jurel,6,not out,8,3.0,0.0,1.0,266.66,Rajasthan Royals,11th, Guwahati, April 08
+Prithvi Shaw,1,out,0,3.0,0.0,0.0,0,Delhi Capitals,11th, Guwahati, April 08
+David Warner (c),2,out,65,55.0,7.0,0.0,118.18,Delhi Capitals,11th, Guwahati, April 08
+Manish Pandey,3,out,0,1.0,0.0,0.0,0,Delhi Capitals,11th, Guwahati, April 08
+Rilee Rossouw,4,out,14,12.0,2.0,0.0,116.66,Delhi Capitals,11th, Guwahati, April 08
+Lalit Yadav,5,out,38,24.0,5.0,0.0,158.33,Delhi Capitals,11th, Guwahati, April 08
+Axar Patel,6,out,2,6.0,0.0,0.0,33.33,Delhi Capitals,11th, Guwahati, April 08
+Rovman Powell,7,out,2,2.0,0.0,0.0,100,Delhi Capitals,11th, Guwahati, April 08
+Abishek Porel †,8,out,7,9.0,1.0,0.0,77.77,Delhi Capitals,11th, Guwahati, April 08
+Kuldeep Yadav,9,not out,3,7.0,0.0,0.0,42.85,Delhi Capitals,11th, Guwahati, April 08
+Anrich Nortje,10,out,0,1.0,0.0,0.0,0,Delhi Capitals,11th, Guwahati, April 08
+Mukesh Kumar,11,not out,1,1.0,0.0,0.0,100,Delhi Capitals,11th, Guwahati, April 08
+Rohit Sharma (c),1,out,21,13.0,3.0,1.0,161.53,Mumbai Indians,12th, Wankhede, April 08
+Ishan Kishan †,2,out,32,21.0,5.0,0.0,152.38,Mumbai Indians,12th, Wankhede, April 08
+Cameron Green,3,out,12,11.0,1.0,0.0,109.09,Mumbai Indians,12th, Wankhede, April 08
+Suryakumar Yadav,4,out,1,2.0,0.0,0.0,50,Mumbai Indians,12th, Wankhede, April 08
+Tilak Varma,5,out,22,18.0,2.0,1.0,122.22,Mumbai Indians,12th, Wankhede, April 08
+Arshad Khan,6,out,2,4.0,0.0,0.0,50,Mumbai Indians,12th, Wankhede, April 08
+Tim David,7,out,31,22.0,1.0,2.0,140.9,Mumbai Indians,12th, Wankhede, April 08
+Tristan Stubbs,8,out,5,10.0,0.0,0.0,50,Mumbai Indians,12th, Wankhede, April 08
+Hrithik Shokeen,9,not out,18,13.0,3.0,0.0,138.46,Mumbai Indians,12th, Wankhede, April 08
+Piyush Chawla,10,not out,5,6.0,0.0,0.0,83.33,Mumbai Indians,12th, Wankhede, April 08
+Devon Conway,1,out,0,4.0,0.0,0.0,0,Chennai Super Kings,12th, Wankhede, April 08
+Ruturaj Gaikwad,2,not out,40,36.0,2.0,1.0,111.11,Chennai Super Kings,12th, Wankhede, April 08
+Ajinkya Rahane,3,out,61,27.0,7.0,3.0,225.92,Chennai Super Kings,12th, Wankhede, April 08
+Shivam Dube,4,out,28,26.0,2.0,1.0,107.69,Chennai Super Kings,12th, Wankhede, April 08
+Ambati Rayudu,5,not out,20,16.0,3.0,0.0,125,Chennai Super Kings,12th, Wankhede, April 08
+Wriddhiman Saha †,1,out,17,17.0,3.0,0.0,100,Gujarat Titans,13th, Ahmedabad, April 09
+Shubman Gill,2,out,39,31.0,5.0,0.0,125.8,Gujarat Titans,13th, Ahmedabad, April 09
+Sai Sudharsan,3,out,53,38.0,3.0,2.0,139.47,Gujarat Titans,13th, Ahmedabad, April 09
+Abhinav Manohar,4,out,14,8.0,3.0,0.0,175,Gujarat Titans,13th, Ahmedabad, April 09
+Vijay Shankar,5,not out,63,24.0,4.0,5.0,262.5,Gujarat Titans,13th, Ahmedabad, April 09
+David Miller,6,not out,2,3.0,0.0,0.0,66.66,Gujarat Titans,13th, Ahmedabad, April 09
+Rahmanullah Gurbaz †,1,out,15,12.0,1.0,1.0,125,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Narayan Jagadeesan,2,out,6,8.0,1.0,0.0,75,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Venkatesh Iyer,3,out,83,40.0,8.0,5.0,207.5,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Nitish Rana (c),4,out,45,29.0,4.0,3.0,155.17,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Rinku Singh,5,not out,48,21.0,1.0,6.0,228.57,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Andre Russell,6,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Sunil Narine,7,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Shardul Thakur,8,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Umesh Yadav,9,not out,5,6.0,0.0,0.0,83.33,Kolkata Knight Riders,13th, Ahmedabad, April 09
+Prabhsimran Singh,1,out,0,1.0,0.0,0.0,0,Punjab Kings,14th, Hyderabad, April 09
+Shikhar Dhawan (c),2,not out,99,66.0,12.0,5.0,150,Punjab Kings,14th, Hyderabad, April 09
+Matthew Short,3,out,1,3.0,0.0,0.0,33.33,Punjab Kings,14th, Hyderabad, April 09
+Jitesh Sharma †,4,out,4,9.0,1.0,0.0,44.44,Punjab Kings,14th, Hyderabad, April 09
+Sam Curran,5,out,22,15.0,3.0,1.0,146.66,Punjab Kings,14th, Hyderabad, April 09
+Sikandar Raza,6,out,5,6.0,0.0,0.0,83.33,Punjab Kings,14th, Hyderabad, April 09
+M Shahrukh Khan,7,out,4,3.0,1.0,0.0,133.33,Punjab Kings,14th, Hyderabad, April 09
+Harpreet Brar,8,out,1,2.0,0.0,0.0,50,Punjab Kings,14th, Hyderabad, April 09
+Rahul Chahar,9,out,0,8.0,0.0,0.0,0,Punjab Kings,14th, Hyderabad, April 09
+Nathan Ellis,10,out,0,5.0,0.0,0.0,0,Punjab Kings,14th, Hyderabad, April 09
+Mohit Rathee,11,not out,1,2.0,0.0,0.0,50,Punjab Kings,14th, Hyderabad, April 09
+Harry Brook,1,out,13,14.0,3.0,0.0,92.85,Sunrisers Hyderabad,14th, Hyderabad, April 09
+Mayank Agarwal,2,out,21,20.0,3.0,0.0,105,Sunrisers Hyderabad,14th, Hyderabad, April 09
+Rahul Tripathi,3,not out,74,48.0,10.0,3.0,154.16,Sunrisers Hyderabad,14th, Hyderabad, April 09
+Aiden Markram (c),4,not out,37,21.0,6.0,0.0,176.19,Sunrisers Hyderabad,14th, Hyderabad, April 09
+Virat Kohli,1,out,61,44.0,4.0,4.0,138.63,Royal Challengers Bangalore,15th, Bengaluru, April 10
+Faf du Plessis (c),2,not out,79,46.0,5.0,5.0,171.73,Royal Challengers Bangalore,15th, Bengaluru, April 10
+Glenn Maxwell,3,out,59,29.0,3.0,6.0,203.44,Royal Challengers Bangalore,15th, Bengaluru, April 10
+Dinesh Karthik †,4,not out,1,1.0,0.0,0.0,100,Royal Challengers Bangalore,15th, Bengaluru, April 10
+Kyle Mayers,1,out,0,3.0,0.0,0.0,0,Lucknow Super Giants,15th, Bengaluru, April 10
+KL Rahul (c),2,out,18,20.0,1.0,0.0,90,Lucknow Super Giants,15th, Bengaluru, April 10
+Deepak Hooda,3,out,9,10.0,1.0,0.0,90,Lucknow Super Giants,15th, Bengaluru, April 10
+Krunal Pandya,4,out,0,2.0,0.0,0.0,0,Lucknow Super Giants,15th, Bengaluru, April 10
+Marcus Stoinis,5,out,65,30.0,6.0,5.0,216.66,Lucknow Super Giants,15th, Bengaluru, April 10
+Nicholas Pooran †,6,out,62,19.0,4.0,7.0,326.31,Lucknow Super Giants,15th, Bengaluru, April 10
+Ayush Badoni,7,out,30,24.0,4.0,0.0,125,Lucknow Super Giants,15th, Bengaluru, April 10
+Jaydev Unadkat,8,out,9,7.0,1.0,0.0,128.57,Lucknow Super Giants,15th, Bengaluru, April 10
+Mark Wood,9,out,1,2.0,0.0,0.0,50,Lucknow Super Giants,15th, Bengaluru, April 10
+Ravi Bishnoi,10,not out,3,2.0,0.0,0.0,150,Lucknow Super Giants,15th, Bengaluru, April 10
+Avesh Khan,11,not out,0,1.0,0.0,0.0,0,Lucknow Super Giants,15th, Bengaluru, April 10
+David Warner (c),1,out,51,47.0,6.0,0.0,108.51,Delhi Capitals,16th, Delhi, April 11
+Prithvi Shaw,2,out,15,10.0,3.0,0.0,150,Delhi Capitals,16th, Delhi, April 11
+Manish Pandey,3,out,26,18.0,5.0,0.0,144.44,Delhi Capitals,16th, Delhi, April 11
+Yash Dhull,4,out,2,4.0,0.0,0.0,50,Delhi Capitals,16th, Delhi, April 11
+Rovman Powell,5,out,4,4.0,1.0,0.0,100,Delhi Capitals,16th, Delhi, April 11
+Lalit Yadav,6,out,2,4.0,0.0,0.0,50,Delhi Capitals,16th, Delhi, April 11
+Axar Patel,7,out,54,25.0,4.0,5.0,216,Delhi Capitals,16th, Delhi, April 11
+Abishek Porel †,8,out,1,3.0,0.0,0.0,33.33,Delhi Capitals,16th, Delhi, April 11
+Kuldeep Yadav,9,out,0,1.0,0.0,0.0,0,Delhi Capitals,16th, Delhi, April 11
+Anrich Nortje,10,out,5,3.0,1.0,0.0,166.66,Delhi Capitals,16th, Delhi, April 11
+Mustafizur Rahman,11,not out,1,1.0,0.0,0.0,100,Delhi Capitals,16th, Delhi, April 11
+Rohit Sharma (c),1,out,65,45.0,6.0,4.0,144.44,Mumbai Indians,16th, Delhi, April 11
+Ishan Kishan †,2,out,31,26.0,6.0,0.0,119.23,Mumbai Indians,16th, Delhi, April 11
+Tilak Varma,3,out,41,29.0,1.0,4.0,141.37,Mumbai Indians,16th, Delhi, April 11
+Suryakumar Yadav,4,out,0,1.0,0.0,0.0,0,Mumbai Indians,16th, Delhi, April 11
+Tim David,5,not out,13,11.0,0.0,1.0,118.18,Mumbai Indians,16th, Delhi, April 11
+Cameron Green,6,not out,17,8.0,1.0,1.0,212.5,Mumbai Indians,16th, Delhi, April 11
+Yashasvi Jaiswal,1,out,10,8.0,2.0,0.0,125,Rajasthan Royals,17th, Chennai, April 12
+Jos Buttler,2,out,52,36.0,1.0,3.0,144.44,Rajasthan Royals,17th, Chennai, April 12
+Devdutt Padikkal,3,out,38,26.0,5.0,0.0,146.15,Rajasthan Royals,17th, Chennai, April 12
+Sanju Samson (c)†,4,out,0,2.0,0.0,0.0,0,Rajasthan Royals,17th, Chennai, April 12
+Ravichandran Ashwin,5,out,30,22.0,1.0,2.0,136.36,Rajasthan Royals,17th, Chennai, April 12
+Shimron Hetmyer,6,not out,30,18.0,2.0,2.0,166.66,Rajasthan Royals,17th, Chennai, April 12
+Dhruv Jurel,7,out,4,6.0,0.0,0.0,66.66,Rajasthan Royals,17th, Chennai, April 12
+Jason Holder,8,out,0,1.0,0.0,0.0,0,Rajasthan Royals,17th, Chennai, April 12
+Adam Zampa,9,out,1,1.0,0.0,0.0,100,Rajasthan Royals,17th, Chennai, April 12
+Ruturaj Gaikwad,1,out,8,10.0,1.0,0.0,80,Chennai Super Kings,17th, Chennai, April 12
+Devon Conway,2,out,50,38.0,6.0,0.0,131.57,Chennai Super Kings,17th, Chennai, April 12
+Ajinkya Rahane,3,out,31,19.0,2.0,1.0,163.15,Chennai Super Kings,17th, Chennai, April 12
+Shivam Dube,4,out,8,9.0,1.0,0.0,88.88,Chennai Super Kings,17th, Chennai, April 12
+Moeen Ali,5,out,7,10.0,0.0,0.0,70,Chennai Super Kings,17th, Chennai, April 12
+Ambati Rayudu,6,out,1,2.0,0.0,0.0,50,Chennai Super Kings,17th, Chennai, April 12
+Ravindra Jadeja,7,not out,25,15.0,1.0,2.0,166.66,Chennai Super Kings,17th, Chennai, April 12
+MS Dhoni (c)†,8,not out,32,17.0,1.0,3.0,188.23,Chennai Super Kings,17th, Chennai, April 12
+Prabhsimran Singh,1,out,0,2.0,0.0,0.0,0,Punjab Kings,18th, Mohali, April 13
+Shikhar Dhawan (c),2,out,8,8.0,2.0,0.0,100,Punjab Kings,18th, Mohali, April 13
+Matthew Short,3,out,36,24.0,6.0,1.0,150,Punjab Kings,18th, Mohali, April 13
+Bhanuka Rajapaksa,4,out,20,26.0,1.0,0.0,76.92,Punjab Kings,18th, Mohali, April 13
+Jitesh Sharma †,5,out,25,23.0,5.0,0.0,108.69,Punjab Kings,18th, Mohali, April 13
+Sam Curran,6,out,22,22.0,1.0,1.0,100,Punjab Kings,18th, Mohali, April 13
+M Shahrukh Khan,7,out,22,9.0,1.0,2.0,244.44,Punjab Kings,18th, Mohali, April 13
+Harpreet Brar,8,not out,8,5.0,0.0,1.0,160,Punjab Kings,18th, Mohali, April 13
+Rishi Dhawan,9,out,1,1.0,0.0,0.0,100,Punjab Kings,18th, Mohali, April 13
+Wriddhiman Saha †,1,out,30,19.0,5.0,0.0,157.89,Gujarat Titans,18th, Mohali, April 13
+Shubman Gill,2,out,67,49.0,7.0,1.0,136.73,Gujarat Titans,18th, Mohali, April 13
+Sai Sudharsan,3,out,19,20.0,2.0,0.0,95,Gujarat Titans,18th, Mohali, April 13
+Hardik Pandya (c),4,out,8,11.0,1.0,0.0,72.72,Gujarat Titans,18th, Mohali, April 13
+David Miller,5,not out,17,18.0,1.0,0.0,94.44,Gujarat Titans,18th, Mohali, April 13
+Rahul Tewatia,6,not out,5,2.0,1.0,0.0,250,Gujarat Titans,18th, Mohali, April 13
+Harry Brook,1,not out,100,55.0,12.0,3.0,181.81,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Mayank Agarwal,2,out,9,13.0,0.0,0.0,69.23,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Rahul Tripathi,3,out,9,4.0,2.0,0.0,225,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Aiden Markram (c),4,out,50,26.0,2.0,5.0,192.3,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Abhishek Sharma,5,out,32,17.0,3.0,2.0,188.23,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Heinrich Klaasen †,6,not out,16,6.0,2.0,1.0,266.66,Sunrisers Hyderabad,19th, Eden Gardens, April 14
+Rahmanullah Gurbaz †,1,out,0,3.0,0.0,0.0,0,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Narayan Jagadeesan,2,out,36,21.0,5.0,1.0,171.42,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Venkatesh Iyer,3,out,10,11.0,2.0,0.0,90.9,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Sunil Narine,4,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Nitish Rana (c),5,out,75,41.0,5.0,6.0,182.92,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Andre Russell,6,out,3,6.0,0.0,0.0,50,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Rinku Singh,7,not out,58,31.0,4.0,4.0,187.09,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Shardul Thakur,8,out,12,7.0,2.0,0.0,171.42,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Umesh Yadav,9,not out,1,1.0,0.0,0.0,100,Kolkata Knight Riders,19th, Eden Gardens, April 14
+Virat Kohli,1,out,50,34.0,6.0,1.0,147.05,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Faf du Plessis (c),2,out,22,16.0,3.0,1.0,137.5,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Mahipal Lomror,3,out,26,18.0,0.0,2.0,144.44,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Glenn Maxwell,4,out,24,14.0,0.0,3.0,171.42,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Harshal Patel,5,out,6,4.0,0.0,1.0,150,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Shahbaz Ahmed,6,not out,20,12.0,3.0,0.0,166.66,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Dinesh Karthik †,7,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,20th, Bengaluru, April 15
+Anuj Rawat,8,not out,15,22.0,1.0,0.0,68.18,Royal Challengers Bangalore,20th, Bengaluru, April 15
+David Warner (c),1,out,19,13.0,4.0,0.0,146.15,Delhi Capitals,20th, Bengaluru, April 15
+Prithvi Shaw,2,out,0,2.0,0.0,0.0,0,Delhi Capitals,20th, Bengaluru, April 15
+Mitchell Marsh,3,out,0,4.0,0.0,0.0,0,Delhi Capitals,20th, Bengaluru, April 15
+Yash Dhull,4,out,1,4.0,0.0,0.0,25,Delhi Capitals,20th, Bengaluru, April 15
+Manish Pandey,5,out,50,38.0,5.0,1.0,131.57,Delhi Capitals,20th, Bengaluru, April 15
+Abishek Porel †,6,out,5,8.0,0.0,0.0,62.5,Delhi Capitals,20th, Bengaluru, April 15
+Axar Patel,7,out,21,14.0,3.0,0.0,150,Delhi Capitals,20th, Bengaluru, April 15
+Aman Hakim Khan,8,out,18,10.0,1.0,1.0,180,Delhi Capitals,20th, Bengaluru, April 15
+Lalit Yadav,9,out,4,7.0,0.0,0.0,57.14,Delhi Capitals,20th, Bengaluru, April 15
+Anrich Nortje,10,not out,23,14.0,4.0,0.0,164.28,Delhi Capitals,20th, Bengaluru, April 15
+Kuldeep Yadav,11,not out,7,6.0,1.0,0.0,116.66,Delhi Capitals,20th, Bengaluru, April 15
+KL Rahul (c),1,out,74,56.0,8.0,1.0,132.14,Lucknow Super Giants,21st, Lucknow, April 15
+Kyle Mayers,2,out,29,23.0,1.0,3.0,126.08,Lucknow Super Giants,21st, Lucknow, April 15
+Deepak Hooda,3,out,2,3.0,0.0,0.0,66.66,Lucknow Super Giants,21st, Lucknow, April 15
+Krunal Pandya,4,out,18,17.0,2.0,0.0,105.88,Lucknow Super Giants,21st, Lucknow, April 15
+Nicholas Pooran †,5,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,21st, Lucknow, April 15
+Marcus Stoinis,6,out,15,11.0,0.0,2.0,136.36,Lucknow Super Giants,21st, Lucknow, April 15
+Ayush Badoni,7,not out,5,6.0,0.0,0.0,83.33,Lucknow Super Giants,21st, Lucknow, April 15
+Krishnappa Gowtham,8,out,1,2.0,0.0,0.0,50,Lucknow Super Giants,21st, Lucknow, April 15
+Yudhvir Singh,9,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,21st, Lucknow, April 15
+Ravi Bishnoi,10,not out,3,1.0,0.0,0.0,300,Lucknow Super Giants,21st, Lucknow, April 15
+Atharva Taide,1,out,0,3.0,0.0,0.0,0,Punjab Kings,21st, Lucknow, April 15
+Prabhsimran Singh,2,out,4,4.0,1.0,0.0,100,Punjab Kings,21st, Lucknow, April 15
+Matthew Short,3,out,34,22.0,5.0,1.0,154.54,Punjab Kings,21st, Lucknow, April 15
+Harpreet Singh,4,out,22,22.0,3.0,0.0,100,Punjab Kings,21st, Lucknow, April 15
+Sikandar Raza,5,out,57,41.0,4.0,3.0,139.02,Punjab Kings,21st, Lucknow, April 15
+Sam Curran (c),6,out,6,6.0,1.0,0.0,100,Punjab Kings,21st, Lucknow, April 15
+Jitesh Sharma †,7,out,2,4.0,0.0,0.0,50,Punjab Kings,21st, Lucknow, April 15
+M Shahrukh Khan,8,not out,23,10.0,1.0,2.0,230,Punjab Kings,21st, Lucknow, April 15
+Harpreet Brar,9,out,6,4.0,1.0,0.0,150,Punjab Kings,21st, Lucknow, April 15
+Kagiso Rabada,10,not out,0,1.0,0.0,0.0,0,Punjab Kings,21st, Lucknow, April 15
+Rahmanullah Gurbaz †,1,out,8,12.0,0.0,0.0,66.66,Kolkata Knight Riders,22nd, Wankhede, April 16
+Narayan Jagadeesan,2,out,0,5.0,0.0,0.0,0,Kolkata Knight Riders,22nd, Wankhede, April 16
+Venkatesh Iyer,3,out,104,51.0,6.0,9.0,203.92,Kolkata Knight Riders,22nd, Wankhede, April 16
+Nitish Rana (c),4,out,5,10.0,0.0,0.0,50,Kolkata Knight Riders,22nd, Wankhede, April 16
+Shardul Thakur,5,out,13,11.0,1.0,0.0,118.18,Kolkata Knight Riders,22nd, Wankhede, April 16
+Rinku Singh,6,out,18,18.0,2.0,0.0,100,Kolkata Knight Riders,22nd, Wankhede, April 16
+Andre Russell,7,not out,21,11.0,3.0,1.0,190.9,Kolkata Knight Riders,22nd, Wankhede, April 16
+Sunil Narine,8,not out,2,2.0,0.0,0.0,100,Kolkata Knight Riders,22nd, Wankhede, April 16
+Rohit Sharma,1,out,20,13.0,1.0,2.0,153.84,Mumbai Indians,22nd, Wankhede, April 16
+Ishan Kishan †,2,out,58,25.0,5.0,5.0,232,Mumbai Indians,22nd, Wankhede, April 16
+Suryakumar Yadav (c),3,out,43,25.0,4.0,3.0,172,Mumbai Indians,22nd, Wankhede, April 16
+Tilak Varma,4,out,30,25.0,3.0,1.0,120,Mumbai Indians,22nd, Wankhede, April 16
+Tim David,5,not out,24,13.0,1.0,2.0,184.61,Mumbai Indians,22nd, Wankhede, April 16
+Nehal Wadhera,6,out,6,4.0,1.0,0.0,150,Mumbai Indians,22nd, Wankhede, April 16
+Cameron Green,7,not out,1,1.0,0.0,0.0,100,Mumbai Indians,22nd, Wankhede, April 16
+Wriddhiman Saha †,1,out,4,3.0,1.0,0.0,133.33,Gujarat Titans,23rd, Ahmedabad, April 16
+Shubman Gill,2,out,45,34.0,4.0,1.0,132.35,Gujarat Titans,23rd, Ahmedabad, April 16
+Sai Sudharsan,3,out,20,19.0,2.0,0.0,105.26,Gujarat Titans,23rd, Ahmedabad, April 16
+Hardik Pandya (c),4,out,28,19.0,3.0,1.0,147.36,Gujarat Titans,23rd, Ahmedabad, April 16
+David Miller,5,out,46,30.0,3.0,2.0,153.33,Gujarat Titans,23rd, Ahmedabad, April 16
+Abhinav Manohar,6,out,27,13.0,0.0,3.0,207.69,Gujarat Titans,23rd, Ahmedabad, April 16
+Rahul Tewatia,7,not out,1,1.0,0.0,0.0,100,Gujarat Titans,23rd, Ahmedabad, April 16
+Rashid Khan,8,out,1,1.0,0.0,0.0,100,Gujarat Titans,23rd, Ahmedabad, April 16
+Alzarri Joseph,9,not out,0,0.0,0.0,0.0,-,Gujarat Titans,23rd, Ahmedabad, April 16
+Yashasvi Jaiswal,1,out,1,7.0,0.0,0.0,14.28,Rajasthan Royals,23rd, Ahmedabad, April 16
+Jos Buttler,2,out,0,5.0,0.0,0.0,0,Rajasthan Royals,23rd, Ahmedabad, April 16
+Devdutt Padikkal,3,out,26,25.0,2.0,2.0,104,Rajasthan Royals,23rd, Ahmedabad, April 16
+Sanju Samson (c)†,4,out,60,32.0,3.0,6.0,187.5,Rajasthan Royals,23rd, Ahmedabad, April 16
+Riyan Parag,5,out,5,7.0,0.0,0.0,71.42,Rajasthan Royals,23rd, Ahmedabad, April 16
+Shimron Hetmyer,6,not out,56,26.0,2.0,5.0,215.38,Rajasthan Royals,23rd, Ahmedabad, April 16
+Dhruv Jurel,7,out,18,10.0,2.0,1.0,180,Rajasthan Royals,23rd, Ahmedabad, April 16
+Ravichandran Ashwin,8,out,10,3.0,1.0,1.0,333.33,Rajasthan Royals,23rd, Ahmedabad, April 16
+Trent Boult,9,not out,0,1.0,0.0,0.0,0,Rajasthan Royals,23rd, Ahmedabad, April 16
+Ruturaj Gaikwad,1,out,3,6.0,0.0,0.0,50,Chennai Super Kings,24th, Bengaluru, April 17
+Devon Conway,2,out,83,45.0,6.0,6.0,184.44,Chennai Super Kings,24th, Bengaluru, April 17
+Ajinkya Rahane,3,out,37,20.0,3.0,2.0,185,Chennai Super Kings,24th, Bengaluru, April 17
+Shivam Dube,4,out,52,27.0,2.0,5.0,192.59,Chennai Super Kings,24th, Bengaluru, April 17
+Ambati Rayudu,5,out,14,6.0,1.0,1.0,233.33,Chennai Super Kings,24th, Bengaluru, April 17
+Moeen Ali,6,not out,19,9.0,0.0,2.0,211.11,Chennai Super Kings,24th, Bengaluru, April 17
+Ravindra Jadeja,7,out,10,8.0,0.0,1.0,125,Chennai Super Kings,24th, Bengaluru, April 17
+MS Dhoni (c)†,8,not out,1,1.0,0.0,0.0,100,Chennai Super Kings,24th, Bengaluru, April 17
+Virat Kohli,1,out,6,4.0,1.0,0.0,150,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Faf du Plessis (c),2,out,62,33.0,5.0,4.0,187.87,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Mahipal Lomror,3,out,0,5.0,0.0,0.0,0,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Glenn Maxwell,4,out,76,36.0,3.0,8.0,211.11,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Shahbaz Ahmed,5,out,12,10.0,0.0,1.0,120,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Dinesh Karthik †,6,out,28,14.0,3.0,1.0,200,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Suyash Prabhudessai,7,out,19,11.0,0.0,2.0,172.72,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Wayne Parnell,8,out,2,5.0,0.0,0.0,40,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Wanindu Hasaranga,9,not out,2,2.0,0.0,0.0,100,Royal Challengers Bangalore,24th, Bengaluru, April 17
+Rohit Sharma (c),1,out,28,18.0,6.0,0.0,155.55,Mumbai Indians,25th, Hyderabad, April 18
+Ishan Kishan †,2,out,38,31.0,3.0,2.0,122.58,Mumbai Indians,25th, Hyderabad, April 18
+Cameron Green,3,not out,64,40.0,6.0,2.0,160,Mumbai Indians,25th, Hyderabad, April 18
+Suryakumar Yadav,4,out,7,3.0,0.0,1.0,233.33,Mumbai Indians,25th, Hyderabad, April 18
+Tilak Varma,5,out,37,17.0,2.0,4.0,217.64,Mumbai Indians,25th, Hyderabad, April 18
+Tim David,6,out,16,11.0,2.0,0.0,145.45,Mumbai Indians,25th, Hyderabad, April 18
+Harry Brook,1,out,9,7.0,2.0,0.0,128.57,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Mayank Agarwal,2,out,48,41.0,4.0,1.0,117.07,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Rahul Tripathi,3,out,7,5.0,1.0,0.0,140,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Aiden Markram (c),4,out,22,17.0,1.0,1.0,129.41,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Abhishek Sharma,5,out,1,2.0,0.0,0.0,50,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Heinrich Klaasen †,6,out,36,16.0,4.0,2.0,225,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Abdul Samad,7,out,9,12.0,1.0,0.0,75,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Marco Jansen,8,out,13,6.0,3.0,0.0,216.66,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Washington Sundar,9,out,10,6.0,2.0,0.0,166.66,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Bhuvneshwar Kumar,10,out,2,5.0,0.0,0.0,40,Sunrisers Hyderabad,25th, Hyderabad, April 18
+Mayank Markande,11,not out,2,2.0,0.0,0.0,100,Sunrisers Hyderabad,25th, Hyderabad, April 18
+KL Rahul (c),1,out,39,32.0,4.0,1.0,121.87,Lucknow Super Giants,26th, Jaipur, April 19
+Kyle Mayers,2,out,51,42.0,4.0,3.0,121.42,Lucknow Super Giants,26th, Jaipur, April 19
+Ayush Badoni,3,out,1,4.0,0.0,0.0,25,Lucknow Super Giants,26th, Jaipur, April 19
+Deepak Hooda,4,out,2,4.0,0.0,0.0,50,Lucknow Super Giants,26th, Jaipur, April 19
+Marcus Stoinis,5,out,21,16.0,2.0,0.0,131.25,Lucknow Super Giants,26th, Jaipur, April 19
+Nicholas Pooran †,6,out,29,20.0,2.0,1.0,145,Lucknow Super Giants,26th, Jaipur, April 19
+Krunal Pandya,7,not out,4,2.0,1.0,0.0,200,Lucknow Super Giants,26th, Jaipur, April 19
+Yudhvir Singh,8,out,1,1.0,0.0,0.0,100,Lucknow Super Giants,26th, Jaipur, April 19
+Yashasvi Jaiswal,1,out,44,35.0,4.0,2.0,125.71,Rajasthan Royals,26th, Jaipur, April 19
+Jos Buttler,2,out,40,41.0,4.0,1.0,97.56,Rajasthan Royals,26th, Jaipur, April 19
+Sanju Samson (c)†,3,out,2,4.0,0.0,0.0,50,Rajasthan Royals,26th, Jaipur, April 19
+Devdutt Padikkal,4,out,26,21.0,4.0,0.0,123.8,Rajasthan Royals,26th, Jaipur, April 19
+Shimron Hetmyer,5,out,2,5.0,0.0,0.0,40,Rajasthan Royals,26th, Jaipur, April 19
+Riyan Parag,6,not out,15,12.0,1.0,1.0,125,Rajasthan Royals,26th, Jaipur, April 19
+Dhruv Jurel,7,out,0,1.0,0.0,0.0,0,Rajasthan Royals,26th, Jaipur, April 19
+Ravichandran Ashwin,8,not out,3,2.0,0.0,0.0,150,Rajasthan Royals,26th, Jaipur, April 19
+Virat Kohli (c),1,out,59,47.0,5.0,1.0,125.53,Royal Challengers Bangalore,27th, Mohali, April 20
+Faf du Plessis,2,out,84,56.0,5.0,5.0,150,Royal Challengers Bangalore,27th, Mohali, April 20
+Glenn Maxwell,3,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,27th, Mohali, April 20
+Dinesh Karthik †,4,out,7,5.0,1.0,0.0,140,Royal Challengers Bangalore,27th, Mohali, April 20
+Mahipal Lomror,5,not out,7,9.0,1.0,0.0,77.77,Royal Challengers Bangalore,27th, Mohali, April 20
+Shahbaz Ahmed,6,not out,5,3.0,0.0,0.0,166.66,Royal Challengers Bangalore,27th, Mohali, April 20
+Atharva Taide,1,out,4,2.0,1.0,0.0,200,Punjab Kings,27th, Mohali, April 20
+Prabhsimran Singh,2,out,46,30.0,3.0,4.0,153.33,Punjab Kings,27th, Mohali, April 20
+Matthew Short,3,out,8,7.0,0.0,1.0,114.28,Punjab Kings,27th, Mohali, April 20
+Liam Livingstone,4,out,2,4.0,0.0,0.0,50,Punjab Kings,27th, Mohali, April 20
+Harpreet Singh,5,out,13,9.0,1.0,1.0,144.44,Punjab Kings,27th, Mohali, April 20
+Sam Curran (c),6,out,10,12.0,1.0,0.0,83.33,Punjab Kings,27th, Mohali, April 20
+Jitesh Sharma †,7,out,41,27.0,2.0,3.0,151.85,Punjab Kings,27th, Mohali, April 20
+M Shahrukh Khan,8,out,7,5.0,0.0,1.0,140,Punjab Kings,27th, Mohali, April 20
+Harpreet Brar,9,out,13,13.0,1.0,0.0,100,Punjab Kings,27th, Mohali, April 20
+Nathan Ellis,10,out,1,2.0,0.0,0.0,50,Punjab Kings,27th, Mohali, April 20
+Arshdeep Singh,11,not out,0,0.0,0.0,0.0,-,Punjab Kings,27th, Mohali, April 20
+Jason Roy,1,out,43,39.0,5.0,1.0,110.25,Kolkata Knight Riders,28th, Delhi, April 20
+Litton Das †,2,out,4,4.0,1.0,0.0,100,Kolkata Knight Riders,28th, Delhi, April 20
+Venkatesh Iyer,3,out,0,2.0,0.0,0.0,0,Kolkata Knight Riders,28th, Delhi, April 20
+Nitish Rana (c),4,out,4,7.0,1.0,0.0,57.14,Kolkata Knight Riders,28th, Delhi, April 20
+Mandeep Singh,5,out,12,11.0,0.0,1.0,109.09,Kolkata Knight Riders,28th, Delhi, April 20
+Rinku Singh,6,out,6,8.0,1.0,0.0,75,Kolkata Knight Riders,28th, Delhi, April 20
+Sunil Narine,7,out,4,6.0,1.0,0.0,66.66,Kolkata Knight Riders,28th, Delhi, April 20
+Andre Russell,8,not out,38,31.0,1.0,4.0,122.58,Kolkata Knight Riders,28th, Delhi, April 20
+Anukul Roy,9,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,28th, Delhi, April 20
+Umesh Yadav,10,out,3,5.0,0.0,0.0,60,Kolkata Knight Riders,28th, Delhi, April 20
+Varun Chakravarthy,11,out,1,6.0,0.0,0.0,16.66,Kolkata Knight Riders,28th, Delhi, April 20
+David Warner (c),1,out,57,41.0,11.0,0.0,139.02,Delhi Capitals,28th, Delhi, April 20
+Prithvi Shaw,2,out,13,11.0,2.0,0.0,118.18,Delhi Capitals,28th, Delhi, April 20
+Mitchell Marsh,3,out,2,9.0,0.0,0.0,22.22,Delhi Capitals,28th, Delhi, April 20
+Phil Salt †,4,out,5,3.0,1.0,0.0,166.66,Delhi Capitals,28th, Delhi, April 20
+Manish Pandey,5,out,21,23.0,2.0,0.0,91.3,Delhi Capitals,28th, Delhi, April 20
+Axar Patel,6,not out,19,22.0,1.0,0.0,86.36,Delhi Capitals,28th, Delhi, April 20
+Aman Hakim Khan,7,out,0,2.0,0.0,0.0,0,Delhi Capitals,28th, Delhi, April 20
+Lalit Yadav,8,not out,4,7.0,0.0,0.0,57.14,Delhi Capitals,28th, Delhi, April 20
+Harry Brook,1,out,18,13.0,3.0,0.0,138.46,Sunrisers Hyderabad,29th, Chennai, April 21
+Abhishek Sharma,2,out,34,26.0,3.0,1.0,130.76,Sunrisers Hyderabad,29th, Chennai, April 21
+Rahul Tripathi,3,out,21,21.0,1.0,1.0,100,Sunrisers Hyderabad,29th, Chennai, April 21
+Aiden Markram (c),4,out,12,12.0,1.0,0.0,100,Sunrisers Hyderabad,29th, Chennai, April 21
+Heinrich Klaasen †,5,out,17,16.0,1.0,0.0,106.25,Sunrisers Hyderabad,29th, Chennai, April 21
+Mayank Agarwal,6,out,2,4.0,0.0,0.0,50,Sunrisers Hyderabad,29th, Chennai, April 21
+Marco Jansen,7,not out,17,22.0,1.0,0.0,77.27,Sunrisers Hyderabad,29th, Chennai, April 21
+Washington Sundar,8,out,9,6.0,1.0,0.0,150,Sunrisers Hyderabad,29th, Chennai, April 21
+Ruturaj Gaikwad,1,out,35,30.0,2.0,0.0,116.66,Chennai Super Kings,29th, Chennai, April 21
+Devon Conway,2,not out,77,57.0,12.0,1.0,135.08,Chennai Super Kings,29th, Chennai, April 21
+Ajinkya Rahane,3,out,9,10.0,0.0,0.0,90,Chennai Super Kings,29th, Chennai, April 21
+Ambati Rayudu,4,out,9,9.0,1.0,0.0,100,Chennai Super Kings,29th, Chennai, April 21
+Moeen Ali,5,not out,6,6.0,1.0,0.0,100,Chennai Super Kings,29th, Chennai, April 21
+Wriddhiman Saha †,1,out,47,37.0,6.0,0.0,127.02,Gujarat Titans,30th, Lucknow, April 22
+Shubman Gill,2,out,0,2.0,0.0,0.0,0,Gujarat Titans,30th, Lucknow, April 22
+Hardik Pandya (c),3,out,66,50.0,2.0,4.0,132,Gujarat Titans,30th, Lucknow, April 22
+Abhinav Manohar,4,out,3,5.0,0.0,0.0,60,Gujarat Titans,30th, Lucknow, April 22
+Vijay Shankar,5,out,10,12.0,1.0,0.0,83.33,Gujarat Titans,30th, Lucknow, April 22
+David Miller,6,out,6,12.0,0.0,0.0,50,Gujarat Titans,30th, Lucknow, April 22
+Rahul Tewatia,7,not out,2,2.0,0.0,0.0,100,Gujarat Titans,30th, Lucknow, April 22
+KL Rahul (c),1,out,68,61.0,8.0,0.0,111.47,Lucknow Super Giants,30th, Lucknow, April 22
+Kyle Mayers,2,out,24,19.0,2.0,1.0,126.31,Lucknow Super Giants,30th, Lucknow, April 22
+Krunal Pandya,3,out,23,23.0,2.0,1.0,100,Lucknow Super Giants,30th, Lucknow, April 22
+Nicholas Pooran †,4,out,1,7.0,0.0,0.0,14.28,Lucknow Super Giants,30th, Lucknow, April 22
+Ayush Badoni,5,out,8,6.0,0.0,0.0,133.33,Lucknow Super Giants,30th, Lucknow, April 22
+Marcus Stoinis,6,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,30th, Lucknow, April 22
+Deepak Hooda,7,out,2,2.0,0.0,0.0,100,Lucknow Super Giants,30th, Lucknow, April 22
+Prerak Mankad,8,not out,0,0.0,0.0,0.0,-,Lucknow Super Giants,30th, Lucknow, April 22
+Ravi Bishnoi,9,not out,0,1.0,0.0,0.0,0,Lucknow Super Giants,30th, Lucknow, April 22
+Matthew Short,1,out,11,10.0,2.0,0.0,110,Punjab Kings,31st, Wankhede, April 22
+Prabhsimran Singh,2,out,26,17.0,1.0,2.0,152.94,Punjab Kings,31st, Wankhede, April 22
+Atharva Taide,3,out,29,17.0,3.0,1.0,170.58,Punjab Kings,31st, Wankhede, April 22
+Liam Livingstone,4,out,10,12.0,0.0,1.0,83.33,Punjab Kings,31st, Wankhede, April 22
+Harpreet Singh,5,out,41,28.0,4.0,2.0,146.42,Punjab Kings,31st, Wankhede, April 22
+Sam Curran (c),6,out,55,29.0,5.0,4.0,189.65,Punjab Kings,31st, Wankhede, April 22
+Jitesh Sharma †,7,out,25,7.0,0.0,4.0,357.14,Punjab Kings,31st, Wankhede, April 22
+M Shahrukh Khan,8,not out,0,0.0,0.0,0.0,-,Punjab Kings,31st, Wankhede, April 22
+Harpreet Brar,9,out,5,2.0,1.0,0.0,250,Punjab Kings,31st, Wankhede, April 22
+Rohit Sharma (c),1,out,44,27.0,4.0,3.0,162.96,Mumbai Indians,31st, Wankhede, April 22
+Ishan Kishan †,2,out,1,4.0,0.0,0.0,25,Mumbai Indians,31st, Wankhede, April 22
+Cameron Green,3,out,67,43.0,6.0,3.0,155.81,Mumbai Indians,31st, Wankhede, April 22
+Suryakumar Yadav,4,out,57,26.0,7.0,3.0,219.23,Mumbai Indians,31st, Wankhede, April 22
+Tim David,5,not out,25,13.0,0.0,2.0,192.3,Mumbai Indians,31st, Wankhede, April 22
+Tilak Varma,6,out,3,4.0,0.0,0.0,75,Mumbai Indians,31st, Wankhede, April 22
+Nehal Wadhera,7,out,0,1.0,0.0,0.0,0,Mumbai Indians,31st, Wankhede, April 22
+Jofra Archer,8,not out,1,2.0,0.0,0.0,50,Mumbai Indians,31st, Wankhede, April 22
+Virat Kohli (c),1,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Faf du Plessis,2,out,62,39.0,8.0,2.0,158.97,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Shahbaz Ahmed,3,out,2,4.0,0.0,0.0,50,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Glenn Maxwell,4,out,77,44.0,6.0,4.0,175,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Mahipal Lomror,5,out,8,6.0,1.0,0.0,133.33,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Dinesh Karthik †,6,out,16,13.0,2.0,0.0,123.07,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Suyash Prabhudessai,7,out,0,2.0,0.0,0.0,0,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Wanindu Hasaranga,8,out,6,7.0,0.0,0.0,85.71,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+David Willey,9,not out,4,2.0,1.0,0.0,200,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Vijaykumar Vyshak,10,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Mohammed Siraj,11,not out,1,1.0,0.0,0.0,100,Royal Challengers Bangalore,32nd, Bengaluru, April 23
+Yashasvi Jaiswal,1,out,47,37.0,5.0,2.0,127.02,Rajasthan Royals,32nd, Bengaluru, April 23
+Jos Buttler,2,out,0,2.0,0.0,0.0,0,Rajasthan Royals,32nd, Bengaluru, April 23
+Devdutt Padikkal,3,out,52,34.0,7.0,1.0,152.94,Rajasthan Royals,32nd, Bengaluru, April 23
+Sanju Samson (c)†,4,out,22,15.0,2.0,1.0,146.66,Rajasthan Royals,32nd, Bengaluru, April 23
+Shimron Hetmyer,5,out,3,9.0,0.0,0.0,33.33,Rajasthan Royals,32nd, Bengaluru, April 23
+Dhruv Jurel,6,not out,34,16.0,2.0,2.0,212.5,Rajasthan Royals,32nd, Bengaluru, April 23
+Ravichandran Ashwin,7,out,12,6.0,2.0,0.0,200,Rajasthan Royals,32nd, Bengaluru, April 23
+Abdul Basith,8,not out,1,1.0,0.0,0.0,100,Rajasthan Royals,32nd, Bengaluru, April 23
+Ruturaj Gaikwad,1,out,35,20.0,2.0,3.0,175,Chennai Super Kings,33rd, Eden Gardens, April 23
+Devon Conway,2,out,56,40.0,4.0,3.0,140,Chennai Super Kings,33rd, Eden Gardens, April 23
+Ajinkya Rahane,3,not out,71,29.0,6.0,5.0,244.82,Chennai Super Kings,33rd, Eden Gardens, April 23
+Shivam Dube,4,out,50,21.0,2.0,5.0,238.09,Chennai Super Kings,33rd, Eden Gardens, April 23
+Ravindra Jadeja,5,out,18,8.0,0.0,2.0,225,Chennai Super Kings,33rd, Eden Gardens, April 23
+MS Dhoni (c)†,6,not out,2,3.0,0.0,0.0,66.66,Chennai Super Kings,33rd, Eden Gardens, April 23
+Narayan Jagadeesan †,1,out,1,3.0,0.0,0.0,33.33,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Sunil Narine,2,out,0,3.0,0.0,0.0,0,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Venkatesh Iyer,3,out,20,20.0,2.0,1.0,100,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Nitish Rana (c),4,out,27,20.0,4.0,1.0,135,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Jason Roy,5,out,61,26.0,5.0,5.0,234.61,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Rinku Singh,6,not out,53,33.0,3.0,4.0,160.6,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Andre Russell,7,out,9,6.0,0.0,1.0,150,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+David Wiese,8,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Umesh Yadav,9,out,4,4.0,0.0,0.0,100,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+Varun Chakravarthy,10,not out,0,3.0,0.0,0.0,0,Kolkata Knight Riders,33rd, Eden Gardens, April 23
+David Warner (c),1,out,21,20.0,2.0,1.0,105,Delhi Capitals,34th, Hyderabad, April 24
+Phil Salt †,2,out,0,1.0,0.0,0.0,0,Delhi Capitals,34th, Hyderabad, April 24
+Mitchell Marsh,3,out,25,15.0,5.0,0.0,166.66,Delhi Capitals,34th, Hyderabad, April 24
+Sarfaraz Khan,4,out,10,9.0,0.0,1.0,111.11,Delhi Capitals,34th, Hyderabad, April 24
+Manish Pandey,5,out,34,27.0,2.0,0.0,125.92,Delhi Capitals,34th, Hyderabad, April 24
+Aman Hakim Khan,6,out,4,2.0,1.0,0.0,200,Delhi Capitals,34th, Hyderabad, April 24
+Axar Patel,7,out,34,34.0,4.0,0.0,100,Delhi Capitals,34th, Hyderabad, April 24
+Ripal Patel,8,out,5,6.0,0.0,0.0,83.33,Delhi Capitals,34th, Hyderabad, April 24
+Anrich Nortje,9,out,2,2.0,0.0,0.0,100,Delhi Capitals,34th, Hyderabad, April 24
+Kuldeep Yadav,10,not out,4,3.0,1.0,0.0,133.33,Delhi Capitals,34th, Hyderabad, April 24
+Ishant Sharma,11,not out,1,1.0,0.0,0.0,100,Delhi Capitals,34th, Hyderabad, April 24
+Harry Brook,1,out,7,14.0,0.0,0.0,50,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Mayank Agarwal,2,out,49,39.0,7.0,0.0,125.64,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Rahul Tripathi,3,out,15,21.0,0.0,0.0,71.42,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Abhishek Sharma,4,out,5,5.0,0.0,0.0,100,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Aiden Markram (c),5,out,3,5.0,0.0,0.0,60,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Heinrich Klaasen †,6,out,31,19.0,3.0,1.0,163.15,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Washington Sundar,7,not out,24,15.0,3.0,0.0,160,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Marco Jansen,8,not out,2,3.0,0.0,0.0,66.66,Sunrisers Hyderabad,34th, Hyderabad, April 24
+Wriddhiman Saha †,1,out,4,7.0,0.0,0.0,57.14,Gujarat Titans,35th, Ahmedabad, April 25
+Shubman Gill,2,out,56,34.0,7.0,1.0,164.7,Gujarat Titans,35th, Ahmedabad, April 25
+Hardik Pandya (c),3,out,13,14.0,1.0,0.0,92.85,Gujarat Titans,35th, Ahmedabad, April 25
+Vijay Shankar,4,out,19,16.0,1.0,1.0,118.75,Gujarat Titans,35th, Ahmedabad, April 25
+David Miller,5,out,46,22.0,2.0,4.0,209.09,Gujarat Titans,35th, Ahmedabad, April 25
+Abhinav Manohar,6,out,42,21.0,3.0,3.0,200,Gujarat Titans,35th, Ahmedabad, April 25
+Rahul Tewatia,7,not out,20,5.0,0.0,3.0,400,Gujarat Titans,35th, Ahmedabad, April 25
+Rashid Khan,8,not out,2,1.0,0.0,0.0,200,Gujarat Titans,35th, Ahmedabad, April 25
+Rohit Sharma (c),1,out,2,8.0,0.0,0.0,25,Mumbai Indians,35th, Ahmedabad, April 25
+Ishan Kishan †,2,out,13,21.0,1.0,0.0,61.9,Mumbai Indians,35th, Ahmedabad, April 25
+Cameron Green,3,out,33,26.0,0.0,3.0,126.92,Mumbai Indians,35th, Ahmedabad, April 25
+Tilak Varma,4,out,2,3.0,0.0,0.0,66.66,Mumbai Indians,35th, Ahmedabad, April 25
+Suryakumar Yadav,5,out,23,12.0,3.0,1.0,191.66,Mumbai Indians,35th, Ahmedabad, April 25
+Tim David,6,out,0,2.0,0.0,0.0,0,Mumbai Indians,35th, Ahmedabad, April 25
+Nehal Wadhera,7,out,40,21.0,3.0,3.0,190.47,Mumbai Indians,35th, Ahmedabad, April 25
+Piyush Chawla,8,out,18,12.0,1.0,1.0,150,Mumbai Indians,35th, Ahmedabad, April 25
+Arjun Tendulkar,9,out,13,9.0,0.0,1.0,144.44,Mumbai Indians,35th, Ahmedabad, April 25
+Jason Behrendorff,10,not out,3,4.0,0.0,0.0,75,Mumbai Indians,35th, Ahmedabad, April 25
+Riley Meredith,11,not out,0,2.0,0.0,0.0,0,Mumbai Indians,35th, Ahmedabad, April 25
+Jason Roy,1,out,56,29.0,4.0,5.0,193.1,Kolkata Knight Riders,36th, Bengaluru, April 26
+Narayan Jagadeesan †,2,out,27,29.0,4.0,0.0,93.1,Kolkata Knight Riders,36th, Bengaluru, April 26
+Venkatesh Iyer,3,out,31,26.0,3.0,0.0,119.23,Kolkata Knight Riders,36th, Bengaluru, April 26
+Nitish Rana (c),4,out,48,21.0,3.0,4.0,228.57,Kolkata Knight Riders,36th, Bengaluru, April 26
+Andre Russell,5,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,36th, Bengaluru, April 26
+Rinku Singh,6,not out,18,10.0,2.0,1.0,180,Kolkata Knight Riders,36th, Bengaluru, April 26
+David Wiese,7,not out,12,3.0,0.0,2.0,400,Kolkata Knight Riders,36th, Bengaluru, April 26
+Virat Kohli (c),1,out,54,37.0,6.0,0.0,145.94,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Faf du Plessis,2,out,17,7.0,1.0,2.0,242.85,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Shahbaz Ahmed,3,out,2,5.0,0.0,0.0,40,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Glenn Maxwell,4,out,5,4.0,1.0,0.0,125,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Mahipal Lomror,5,out,34,18.0,1.0,3.0,188.88,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Dinesh Karthik †,6,out,22,18.0,1.0,1.0,122.22,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Suyash Prabhudessai,7,out,10,9.0,1.0,0.0,111.11,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Wanindu Hasaranga,8,out,5,4.0,0.0,0.0,125,Royal Challengers Bangalore,36th, Bengaluru, April 26
+David Willey,9,not out,11,10.0,1.0,0.0,110,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Vijaykumar Vyshak,10,not out,13,8.0,0.0,1.0,162.5,Royal Challengers Bangalore,36th, Bengaluru, April 26
+Yashasvi Jaiswal,1,out,77,43.0,8.0,4.0,179.06,Rajasthan Royals,37th, Jaipur, April 27
+Jos Buttler,2,out,27,21.0,4.0,0.0,128.57,Rajasthan Royals,37th, Jaipur, April 27
+Sanju Samson (c)†,3,out,17,17.0,1.0,0.0,100,Rajasthan Royals,37th, Jaipur, April 27
+Shimron Hetmyer,4,out,8,10.0,0.0,0.0,80,Rajasthan Royals,37th, Jaipur, April 27
+Dhruv Jurel,5,out,34,15.0,3.0,2.0,226.66,Rajasthan Royals,37th, Jaipur, April 27
+Devdutt Padikkal,6,not out,27,13.0,5.0,0.0,207.69,Rajasthan Royals,37th, Jaipur, April 27
+Ravichandran Ashwin,7,not out,1,1.0,0.0,0.0,100,Rajasthan Royals,37th, Jaipur, April 27
+Ruturaj Gaikwad,1,out,47,29.0,5.0,1.0,162.06,Chennai Super Kings,37th, Jaipur, April 27
+Devon Conway,2,out,8,16.0,1.0,0.0,50,Chennai Super Kings,37th, Jaipur, April 27
+Ajinkya Rahane,3,out,15,13.0,0.0,0.0,115.38,Chennai Super Kings,37th, Jaipur, April 27
+Shivam Dube,4,out,52,33.0,2.0,4.0,157.57,Chennai Super Kings,37th, Jaipur, April 27
+Ambati Rayudu,5,out,0,2.0,0.0,0.0,0,Chennai Super Kings,37th, Jaipur, April 27
+Moeen Ali,6,out,23,12.0,2.0,2.0,191.66,Chennai Super Kings,37th, Jaipur, April 27
+Ravindra Jadeja,7,not out,23,15.0,3.0,0.0,153.33,Chennai Super Kings,37th, Jaipur, April 27
+KL Rahul (c),1,out,12,9.0,1.0,1.0,133.33,Lucknow Super Giants,38th, Mohali, April 28
+Kyle Mayers,2,out,54,24.0,7.0,4.0,225,Lucknow Super Giants,38th, Mohali, April 28
+Ayush Badoni,3,out,43,24.0,3.0,3.0,179.16,Lucknow Super Giants,38th, Mohali, April 28
+Marcus Stoinis,4,out,72,40.0,6.0,5.0,180,Lucknow Super Giants,38th, Mohali, April 28
+Nicholas Pooran †,5,out,45,19.0,7.0,1.0,236.84,Lucknow Super Giants,38th, Mohali, April 28
+Deepak Hooda,6,not out,11,6.0,2.0,0.0,183.33,Lucknow Super Giants,38th, Mohali, April 28
+Krunal Pandya,7,not out,5,2.0,1.0,0.0,250,Lucknow Super Giants,38th, Mohali, April 28
+Prabhsimran Singh,1,out,9,13.0,2.0,0.0,69.23,Punjab Kings,38th, Mohali, April 28
+Shikhar Dhawan (c),2,out,1,2.0,0.0,0.0,50,Punjab Kings,38th, Mohali, April 28
+Atharva Taide,3,out,66,36.0,8.0,2.0,183.33,Punjab Kings,38th, Mohali, April 28
+Sikandar Raza,4,out,36,22.0,4.0,1.0,163.63,Punjab Kings,38th, Mohali, April 28
+Liam Livingstone,5,out,23,14.0,2.0,1.0,164.28,Punjab Kings,38th, Mohali, April 28
+Sam Curran,6,out,21,11.0,2.0,1.0,190.9,Punjab Kings,38th, Mohali, April 28
+Jitesh Sharma †,7,out,24,10.0,0.0,3.0,240,Punjab Kings,38th, Mohali, April 28
+M Shahrukh Khan,8,out,6,9.0,0.0,0.0,66.66,Punjab Kings,38th, Mohali, April 28
+Rahul Chahar,9,out,0,1.0,0.0,0.0,0,Punjab Kings,38th, Mohali, April 28
+Kagiso Rabada,10,out,0,1.0,0.0,0.0,0,Punjab Kings,38th, Mohali, April 28
+Arshdeep Singh,11,not out,2,2.0,0.0,0.0,100,Punjab Kings,38th, Mohali, April 28
+Narayan Jagadeesan †,1,out,19,15.0,4.0,0.0,126.66,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Rahmanullah Gurbaz,2,out,81,39.0,5.0,7.0,207.69,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Shardul Thakur,3,out,0,4.0,0.0,0.0,0,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Venkatesh Iyer,4,out,11,14.0,0.0,0.0,78.57,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Nitish Rana (c),5,out,4,3.0,1.0,0.0,133.33,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Rinku Singh,6,out,19,20.0,0.0,1.0,95,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Andre Russell,7,out,34,19.0,2.0,3.0,178.94,Kolkata Knight Riders,39th, Eden Gardens, April 29
+David Wiese,8,not out,8,6.0,0.0,1.0,133.33,Kolkata Knight Riders,39th, Eden Gardens, April 29
+Wriddhiman Saha †,1,out,10,10.0,1.0,0.0,100,Gujarat Titans,39th, Eden Gardens, April 29
+Shubman Gill,2,out,49,35.0,8.0,0.0,140,Gujarat Titans,39th, Eden Gardens, April 29
+Hardik Pandya (c),3,out,26,20.0,2.0,1.0,130,Gujarat Titans,39th, Eden Gardens, April 29
+Vijay Shankar,4,not out,51,24.0,2.0,5.0,212.5,Gujarat Titans,39th, Eden Gardens, April 29
+David Miller,5,not out,32,18.0,2.0,2.0,177.77,Gujarat Titans,39th, Eden Gardens, April 29
+Abhishek Sharma,1,out,67,36.0,12.0,1.0,186.11,Sunrisers Hyderabad,40th, Delhi, April 29
+Mayank Agarwal,2,out,5,6.0,1.0,0.0,83.33,Sunrisers Hyderabad,40th, Delhi, April 29
+Rahul Tripathi,3,out,10,6.0,0.0,1.0,166.66,Sunrisers Hyderabad,40th, Delhi, April 29
+Aiden Markram (c),4,out,8,13.0,0.0,0.0,61.53,Sunrisers Hyderabad,40th, Delhi, April 29
+Harry Brook,5,out,0,2.0,0.0,0.0,0,Sunrisers Hyderabad,40th, Delhi, April 29
+Heinrich Klaasen †,6,not out,53,27.0,2.0,4.0,196.29,Sunrisers Hyderabad,40th, Delhi, April 29
+Abdul Samad,7,out,28,21.0,1.0,2.0,133.33,Sunrisers Hyderabad,40th, Delhi, April 29
+Akeal Hosein,8,not out,16,10.0,1.0,1.0,160,Sunrisers Hyderabad,40th, Delhi, April 29
+David Warner (c),1,out,0,2.0,0.0,0.0,0,Delhi Capitals,40th, Delhi, April 29
+Phil Salt †,2,out,59,35.0,9.0,0.0,168.57,Delhi Capitals,40th, Delhi, April 29
+Mitchell Marsh,3,out,63,39.0,1.0,6.0,161.53,Delhi Capitals,40th, Delhi, April 29
+Manish Pandey,4,out,1,3.0,0.0,0.0,33.33,Delhi Capitals,40th, Delhi, April 29
+Priyam Garg,5,out,12,9.0,1.0,0.0,133.33,Delhi Capitals,40th, Delhi, April 29
+Sarfaraz Khan,6,out,9,10.0,1.0,0.0,90,Delhi Capitals,40th, Delhi, April 29
+Axar Patel,7,not out,29,14.0,1.0,2.0,207.14,Delhi Capitals,40th, Delhi, April 29
+Ripal Patel,8,not out,11,8.0,1.0,0.0,137.5,Delhi Capitals,40th, Delhi, April 29
+Ruturaj Gaikwad,1,out,37,31.0,4.0,1.0,119.35,Chennai Super Kings,41st, Chennai, April 30
+Devon Conway,2,not out,92,52.0,16.0,1.0,176.92,Chennai Super Kings,41st, Chennai, April 30
+Shivam Dube,3,out,28,17.0,1.0,2.0,164.7,Chennai Super Kings,41st, Chennai, April 30
+Moeen Ali,4,out,10,6.0,2.0,0.0,166.66,Chennai Super Kings,41st, Chennai, April 30
+Ravindra Jadeja,5,out,12,10.0,0.0,0.0,120,Chennai Super Kings,41st, Chennai, April 30
+MS Dhoni (c)†,6,not out,13,4.0,0.0,2.0,325,Chennai Super Kings,41st, Chennai, April 30
+Prabhsimran Singh,1,out,42,24.0,4.0,2.0,175,Punjab Kings,41st, Chennai, April 30
+Shikhar Dhawan (c),2,out,28,15.0,4.0,1.0,186.66,Punjab Kings,41st, Chennai, April 30
+Atharva Taide,3,out,13,17.0,0.0,0.0,76.47,Punjab Kings,41st, Chennai, April 30
+Liam Livingstone,4,out,40,24.0,1.0,4.0,166.66,Punjab Kings,41st, Chennai, April 30
+Sam Curran,5,out,29,20.0,1.0,1.0,145,Punjab Kings,41st, Chennai, April 30
+Jitesh Sharma †,6,out,21,10.0,2.0,1.0,210,Punjab Kings,41st, Chennai, April 30
+M Shahrukh Khan,7,not out,2,3.0,0.0,0.0,66.66,Punjab Kings,41st, Chennai, April 30
+Sikandar Raza,8,not out,13,7.0,1.0,0.0,185.71,Punjab Kings,41st, Chennai, April 30
+Yashasvi Jaiswal,1,out,124,62.0,16.0,8.0,200,Rajasthan Royals,42nd, Wankhede, April 30
+Jos Buttler,2,out,18,19.0,2.0,1.0,94.73,Rajasthan Royals,42nd, Wankhede, April 30
+Sanju Samson (c)†,3,out,14,10.0,1.0,1.0,140,Rajasthan Royals,42nd, Wankhede, April 30
+Devdutt Padikkal,4,out,2,4.0,0.0,0.0,50,Rajasthan Royals,42nd, Wankhede, April 30
+Jason Holder,5,out,11,9.0,0.0,1.0,122.22,Rajasthan Royals,42nd, Wankhede, April 30
+Shimron Hetmyer,6,out,8,9.0,0.0,1.0,88.88,Rajasthan Royals,42nd, Wankhede, April 30
+Dhruv Jurel,7,out,2,3.0,0.0,0.0,66.66,Rajasthan Royals,42nd, Wankhede, April 30
+Ravichandran Ashwin,8,not out,8,5.0,1.0,0.0,160,Rajasthan Royals,42nd, Wankhede, April 30
+Trent Boult,9,not out,0,0.0,0.0,0.0,-,Rajasthan Royals,42nd, Wankhede, April 30
+Rohit Sharma (c),1,out,3,5.0,0.0,0.0,60,Mumbai Indians,42nd, Wankhede, April 30
+Ishan Kishan †,2,out,28,23.0,4.0,0.0,121.73,Mumbai Indians,42nd, Wankhede, April 30
+Cameron Green,3,out,44,26.0,4.0,2.0,169.23,Mumbai Indians,42nd, Wankhede, April 30
+Suryakumar Yadav,4,out,55,29.0,8.0,2.0,189.65,Mumbai Indians,42nd, Wankhede, April 30
+Tilak Varma,5,not out,29,21.0,3.0,1.0,138.09,Mumbai Indians,42nd, Wankhede, April 30
+Tim David,6,not out,45,14.0,2.0,5.0,321.42,Mumbai Indians,42nd, Wankhede, April 30
+Virat Kohli,1,out,31,30.0,3.0,0.0,103.33,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Faf du Plessis (c),2,out,44,40.0,1.0,1.0,110,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Anuj Rawat,3,out,9,11.0,0.0,0.0,81.81,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Glenn Maxwell,4,out,4,5.0,0.0,0.0,80,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Suyash Prabhudessai,5,out,6,7.0,0.0,0.0,85.71,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Dinesh Karthik †,6,out,16,11.0,1.0,1.0,145.45,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Mahipal Lomror,7,out,3,4.0,0.0,0.0,75,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Wanindu Hasaranga,8,not out,8,7.0,1.0,0.0,114.28,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Karn Sharma,9,out,2,2.0,0.0,0.0,100,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Mohammed Siraj,10,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Josh Hazlewood,11,not out,1,2.0,0.0,0.0,50,Royal Challengers Bangalore,43rd, Lucknow, May 01
+Kyle Mayers,1,out,0,2.0,0.0,0.0,0,Lucknow Super Giants,43rd, Lucknow, May 01
+Ayush Badoni,2,out,4,11.0,0.0,0.0,36.36,Lucknow Super Giants,43rd, Lucknow, May 01
+Krunal Pandya,3,out,14,11.0,3.0,0.0,127.27,Lucknow Super Giants,43rd, Lucknow, May 01
+Deepak Hooda,4,out,1,2.0,0.0,0.0,50,Lucknow Super Giants,43rd, Lucknow, May 01
+Marcus Stoinis,5,out,13,19.0,0.0,1.0,68.42,Lucknow Super Giants,43rd, Lucknow, May 01
+Nicholas Pooran †,6,out,9,7.0,0.0,1.0,128.57,Lucknow Super Giants,43rd, Lucknow, May 01
+Krishnappa Gowtham,7,out,23,13.0,1.0,2.0,176.92,Lucknow Super Giants,43rd, Lucknow, May 01
+Ravi Bishnoi,8,out,5,10.0,0.0,0.0,50,Lucknow Super Giants,43rd, Lucknow, May 01
+Amit Mishra,9,out,19,30.0,2.0,0.0,63.33,Lucknow Super Giants,43rd, Lucknow, May 01
+Naveen-ul-Haq,10,out,13,13.0,2.0,0.0,100,Lucknow Super Giants,43rd, Lucknow, May 01
+KL Rahul (c),11,not out,0,3.0,0.0,0.0,0,Lucknow Super Giants,43rd, Lucknow, May 01
+Phil Salt †,1,out,0,1.0,0.0,0.0,0,Delhi Capitals,44th, Ahmedabad, May 02
+David Warner (c),2,out,2,2.0,0.0,0.0,100,Delhi Capitals,44th, Ahmedabad, May 02
+Priyam Garg,3,out,10,14.0,0.0,0.0,71.42,Delhi Capitals,44th, Ahmedabad, May 02
+Rilee Rossouw,4,out,8,6.0,2.0,0.0,133.33,Delhi Capitals,44th, Ahmedabad, May 02
+Manish Pandey,5,out,1,4.0,0.0,0.0,25,Delhi Capitals,44th, Ahmedabad, May 02
+Axar Patel,6,out,27,30.0,2.0,1.0,90,Delhi Capitals,44th, Ahmedabad, May 02
+Aman Hakim Khan,7,out,51,44.0,3.0,3.0,115.9,Delhi Capitals,44th, Ahmedabad, May 02
+Ripal Patel,8,out,23,13.0,2.0,1.0,176.92,Delhi Capitals,44th, Ahmedabad, May 02
+Anrich Nortje,9,not out,3,6.0,0.0,0.0,50,Delhi Capitals,44th, Ahmedabad, May 02
+Kuldeep Yadav,10,not out,0,1.0,0.0,0.0,0,Delhi Capitals,44th, Ahmedabad, May 02
+Wriddhiman Saha †,1,out,0,6.0,0.0,0.0,0,Gujarat Titans,44th, Ahmedabad, May 02
+Shubman Gill,2,out,6,7.0,1.0,0.0,85.71,Gujarat Titans,44th, Ahmedabad, May 02
+Hardik Pandya (c),3,not out,59,53.0,7.0,0.0,111.32,Gujarat Titans,44th, Ahmedabad, May 02
+Vijay Shankar,4,out,6,9.0,1.0,0.0,66.66,Gujarat Titans,44th, Ahmedabad, May 02
+David Miller,5,out,0,3.0,0.0,0.0,0,Gujarat Titans,44th, Ahmedabad, May 02
+Abhinav Manohar,6,out,26,33.0,0.0,1.0,78.78,Gujarat Titans,44th, Ahmedabad, May 02
+Rahul Tewatia,7,out,20,7.0,0.0,3.0,285.71,Gujarat Titans,44th, Ahmedabad, May 02
+Rashid Khan,8,not out,3,2.0,0.0,0.0,150,Gujarat Titans,44th, Ahmedabad, May 02
+Manan Vohra,1,out,10,11.0,1.0,0.0,90.9,Lucknow Super Giants,45th, Lucknow, May 03
+Kyle Mayers,2,out,14,17.0,2.0,0.0,82.35,Lucknow Super Giants,45th, Lucknow, May 03
+Karan Sharma,3,out,9,16.0,0.0,0.0,56.25,Lucknow Super Giants,45th, Lucknow, May 03
+Krunal Pandya (c),4,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,45th, Lucknow, May 03
+Marcus Stoinis,5,out,6,4.0,1.0,0.0,150,Lucknow Super Giants,45th, Lucknow, May 03
+Nicholas Pooran †,6,out,20,31.0,0.0,0.0,64.51,Lucknow Super Giants,45th, Lucknow, May 03
+Ayush Badoni,7,not out,59,33.0,2.0,4.0,178.78,Lucknow Super Giants,45th, Lucknow, May 03
+Krishnappa Gowtham,8,out,1,3.0,0.0,0.0,33.33,Lucknow Super Giants,45th, Lucknow, May 03
+"Ambati Rayudu,",1,out,Chennai Super Kings Team:,,,,,,,,
+"Ruturaj Gaikwad,",2,out,Chennai Super Kings Team:,,,,,,,,
+"Devon Conway,",3,out,Chennai Super Kings Team:,,,,,,,,
+"Ajinkya Rahane,",4,out,Chennai Super Kings Team:,,,,,,,,
+"Moeen Ali,",5,out,Chennai Super Kings Team:,,,,,,,,
+"Shivam Dube,",6,out,Chennai Super Kings Team:,,,,,,,,
+"Ravindra Jadeja,",7,out,Chennai Super Kings Team:,,,,,,,,
+"MS Dhoni (c)†,",8,out,Chennai Super Kings Team:,,,,,,,,
+"Matheesha Pathirana,",9,out,Chennai Super Kings Team:,,,,,,,,
+"Tushar Deshpande,",10,out,Chennai Super Kings Team:,,,,,,,,
+"Maheesh Theekshana,",11,out,Chennai Super Kings Team:,,,,,,,,
+Deepak Chahar,12,out,Chennai Super Kings Team:,,,,,,,,
+Prabhsimran Singh,1,out,9,7.0,1.0,0.0,128.57,Punjab Kings,46th, Mohali, May 03
+Shikhar Dhawan (c),2,out,30,20.0,5.0,0.0,150,Punjab Kings,46th, Mohali, May 03
+Matthew Short,3,out,27,26.0,2.0,1.0,103.84,Punjab Kings,46th, Mohali, May 03
+Liam Livingstone,4,not out,82,42.0,7.0,4.0,195.23,Punjab Kings,46th, Mohali, May 03
+Jitesh Sharma †,5,not out,49,27.0,5.0,2.0,181.48,Punjab Kings,46th, Mohali, May 03
+Rohit Sharma (c),1,out,0,3.0,0.0,0.0,0,Mumbai Indians,46th, Mohali, May 03
+Ishan Kishan †,2,out,75,41.0,7.0,4.0,182.92,Mumbai Indians,46th, Mohali, May 03
+Cameron Green,3,out,23,18.0,4.0,0.0,127.77,Mumbai Indians,46th, Mohali, May 03
+Suryakumar Yadav,4,out,66,31.0,8.0,2.0,212.9,Mumbai Indians,46th, Mohali, May 03
+Tim David,5,not out,19,10.0,3.0,0.0,190,Mumbai Indians,46th, Mohali, May 03
+Tilak Varma,6,not out,26,10.0,1.0,3.0,260,Mumbai Indians,46th, Mohali, May 03
+Jason Roy,1,out,20,19.0,4.0,0.0,105.26,Kolkata Knight Riders,47th, Hyderabad, May 04
+Rahmanullah Gurbaz †,2,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,47th, Hyderabad, May 04
+Venkatesh Iyer,3,out,7,4.0,1.0,0.0,175,Kolkata Knight Riders,47th, Hyderabad, May 04
+Nitish Rana (c),4,out,42,31.0,3.0,3.0,135.48,Kolkata Knight Riders,47th, Hyderabad, May 04
+Rinku Singh,5,out,46,35.0,4.0,1.0,131.42,Kolkata Knight Riders,47th, Hyderabad, May 04
+Andre Russell,6,out,24,15.0,1.0,2.0,160,Kolkata Knight Riders,47th, Hyderabad, May 04
+Sunil Narine,7,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,47th, Hyderabad, May 04
+Shardul Thakur,8,out,8,6.0,1.0,0.0,133.33,Kolkata Knight Riders,47th, Hyderabad, May 04
+Anukul Roy,9,not out,13,7.0,2.0,0.0,185.71,Kolkata Knight Riders,47th, Hyderabad, May 04
+Harshit Rana,10,out,0,1.0,0.0,0.0,0,Kolkata Knight Riders,47th, Hyderabad, May 04
+Vaibhav Arora,11,not out,2,1.0,0.0,0.0,200,Kolkata Knight Riders,47th, Hyderabad, May 04
+Abhishek Sharma,1,out,9,10.0,1.0,0.0,90,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Mayank Agarwal,2,out,18,11.0,2.0,1.0,163.63,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Rahul Tripathi,3,out,20,9.0,3.0,1.0,222.22,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Aiden Markram (c),4,out,41,40.0,4.0,0.0,102.5,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Harry Brook,5,out,0,4.0,0.0,0.0,0,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Heinrich Klaasen †,6,out,36,20.0,1.0,3.0,180,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Abdul Samad,7,out,21,18.0,3.0,0.0,116.66,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Marco Jansen,8,out,1,4.0,0.0,0.0,25,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Bhuvneshwar Kumar,9,not out,5,5.0,1.0,0.0,100,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Mayank Markande,10,not out,1,2.0,0.0,0.0,50,Sunrisers Hyderabad,47th, Hyderabad, May 04
+Yashasvi Jaiswal,1,out,14,11.0,1.0,1.0,127.27,Rajasthan Royals,48th, Jaipur, May 05
+Jos Buttler,2,out,8,6.0,2.0,0.0,133.33,Rajasthan Royals,48th, Jaipur, May 05
+Sanju Samson (c)†,3,out,30,20.0,3.0,1.0,150,Rajasthan Royals,48th, Jaipur, May 05
+Devdutt Padikkal,4,out,12,12.0,1.0,0.0,100,Rajasthan Royals,48th, Jaipur, May 05
+Ravichandran Ashwin,5,out,2,6.0,0.0,0.0,33.33,Rajasthan Royals,48th, Jaipur, May 05
+Riyan Parag,6,out,4,6.0,0.0,0.0,66.66,Rajasthan Royals,48th, Jaipur, May 05
+Shimron Hetmyer,7,out,7,13.0,0.0,0.0,53.84,Rajasthan Royals,48th, Jaipur, May 05
+Dhruv Jurel,8,out,9,8.0,1.0,0.0,112.5,Rajasthan Royals,48th, Jaipur, May 05
+Trent Boult,9,out,15,11.0,1.0,1.0,136.36,Rajasthan Royals,48th, Jaipur, May 05
+Adam Zampa,10,out,7,9.0,0.0,0.0,77.77,Rajasthan Royals,48th, Jaipur, May 05
+Sandeep Sharma,11,not out,2,5.0,0.0,0.0,40,Rajasthan Royals,48th, Jaipur, May 05
+Wriddhiman Saha †,1,not out,41,34.0,5.0,0.0,120.58,Gujarat Titans,48th, Jaipur, May 05
+Shubman Gill,2,out,36,35.0,6.0,0.0,102.85,Gujarat Titans,48th, Jaipur, May 05
+Hardik Pandya (c),3,not out,39,15.0,3.0,3.0,260,Gujarat Titans,48th, Jaipur, May 05
+Cameron Green,1,out,6,4.0,1.0,0.0,150,Mumbai Indians,49th, Chennai, May 06
+Ishan Kishan †,2,out,7,9.0,1.0,0.0,77.77,Mumbai Indians,49th, Chennai, May 06
+Rohit Sharma (c),3,out,0,3.0,0.0,0.0,0,Mumbai Indians,49th, Chennai, May 06
+Nehal Wadhera,4,out,64,51.0,8.0,1.0,125.49,Mumbai Indians,49th, Chennai, May 06
+Suryakumar Yadav,5,out,26,22.0,3.0,0.0,118.18,Mumbai Indians,49th, Chennai, May 06
+Tristan Stubbs,6,out,20,21.0,2.0,0.0,95.23,Mumbai Indians,49th, Chennai, May 06
+Tim David,7,out,2,4.0,0.0,0.0,50,Mumbai Indians,49th, Chennai, May 06
+Arshad Khan,8,out,1,2.0,0.0,0.0,50,Mumbai Indians,49th, Chennai, May 06
+Jofra Archer,9,not out,3,2.0,0.0,0.0,150,Mumbai Indians,49th, Chennai, May 06
+Piyush Chawla,10,not out,2,2.0,0.0,0.0,100,Mumbai Indians,49th, Chennai, May 06
+Ruturaj Gaikwad,1,out,30,16.0,4.0,2.0,187.5,Chennai Super Kings,49th, Chennai, May 06
+Devon Conway,2,out,44,42.0,4.0,0.0,104.76,Chennai Super Kings,49th, Chennai, May 06
+Ajinkya Rahane,3,out,21,17.0,1.0,1.0,123.52,Chennai Super Kings,49th, Chennai, May 06
+Ambati Rayudu,4,out,12,11.0,0.0,1.0,109.09,Chennai Super Kings,49th, Chennai, May 06
+Shivam Dube,5,not out,26,18.0,0.0,3.0,144.44,Chennai Super Kings,49th, Chennai, May 06
+MS Dhoni (c)†,6,not out,2,3.0,0.0,0.0,66.66,Chennai Super Kings,49th, Chennai, May 06
+Virat Kohli,1,out,55,46.0,5.0,0.0,119.56,Royal Challengers Bangalore,50th, Delhi, May 06
+Faf du Plessis (c),2,out,45,32.0,5.0,1.0,140.62,Royal Challengers Bangalore,50th, Delhi, May 06
+Glenn Maxwell,3,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,50th, Delhi, May 06
+Mahipal Lomror,4,not out,54,29.0,6.0,3.0,186.2,Royal Challengers Bangalore,50th, Delhi, May 06
+Dinesh Karthik †,5,out,11,9.0,0.0,1.0,122.22,Royal Challengers Bangalore,50th, Delhi, May 06
+Anuj Rawat,6,not out,8,3.0,0.0,1.0,266.66,Royal Challengers Bangalore,50th, Delhi, May 06
+David Warner (c),1,out,22,14.0,3.0,1.0,157.14,Delhi Capitals,50th, Delhi, May 06
+Phil Salt †,2,out,87,45.0,8.0,6.0,193.33,Delhi Capitals,50th, Delhi, May 06
+Mitchell Marsh,3,out,26,17.0,3.0,1.0,152.94,Delhi Capitals,50th, Delhi, May 06
+Rilee Rossouw,4,not out,35,22.0,1.0,3.0,159.09,Delhi Capitals,50th, Delhi, May 06
+Axar Patel,5,not out,8,3.0,0.0,1.0,266.66,Delhi Capitals,50th, Delhi, May 06
+Wriddhiman Saha †,1,out,81,43.0,10.0,4.0,188.37,Gujarat Titans,51st, Ahmedabad, May 07
+Shubman Gill,2,not out,94,51.0,2.0,7.0,184.31,Gujarat Titans,51st, Ahmedabad, May 07
+Hardik Pandya (c),3,out,25,15.0,1.0,2.0,166.66,Gujarat Titans,51st, Ahmedabad, May 07
+David Miller,4,not out,21,12.0,2.0,1.0,175,Gujarat Titans,51st, Ahmedabad, May 07
+Kyle Mayers,1,out,48,32.0,7.0,2.0,150,Lucknow Super Giants,51st, Ahmedabad, May 07
+Quinton de Kock †,2,out,70,41.0,7.0,3.0,170.73,Lucknow Super Giants,51st, Ahmedabad, May 07
+Deepak Hooda,3,out,11,11.0,0.0,0.0,100,Lucknow Super Giants,51st, Ahmedabad, May 07
+Marcus Stoinis,4,out,4,9.0,0.0,0.0,44.44,Lucknow Super Giants,51st, Ahmedabad, May 07
+Nicholas Pooran,5,out,3,6.0,0.0,0.0,50,Lucknow Super Giants,51st, Ahmedabad, May 07
+Ayush Badoni,6,out,21,11.0,1.0,2.0,190.9,Lucknow Super Giants,51st, Ahmedabad, May 07
+Swapnil Singh,7,not out,2,4.0,0.0,0.0,50,Lucknow Super Giants,51st, Ahmedabad, May 07
+Krunal Pandya (c),8,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,51st, Ahmedabad, May 07
+Ravi Bishnoi,9,not out,4,5.0,1.0,0.0,80,Lucknow Super Giants,51st, Ahmedabad, May 07
+Yashasvi Jaiswal,1,out,35,18.0,5.0,2.0,194.44,Rajasthan Royals,52nd, Jaipur, May 07
+Jos Buttler,2,out,95,59.0,10.0,4.0,161.01,Rajasthan Royals,52nd, Jaipur, May 07
+Sanju Samson (c)†,3,not out,66,38.0,4.0,5.0,173.68,Rajasthan Royals,52nd, Jaipur, May 07
+Shimron Hetmyer,4,not out,7,5.0,0.0,0.0,140,Rajasthan Royals,52nd, Jaipur, May 07
+Anmolpreet Singh,1,out,33,25.0,4.0,1.0,132,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Abhishek Sharma,2,out,55,34.0,5.0,2.0,161.76,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Rahul Tripathi,3,out,47,29.0,2.0,3.0,162.06,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Heinrich Klaasen †,4,out,26,12.0,2.0,2.0,216.66,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Aiden Markram (c),5,out,6,5.0,1.0,0.0,120,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Glenn Phillips,6,out,25,7.0,1.0,3.0,357.14,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Abdul Samad,7,not out,17,7.0,0.0,2.0,242.85,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Marco Jansen,8,not out,3,2.0,0.0,0.0,150,Sunrisers Hyderabad,52nd, Jaipur, May 07
+Prabhsimran Singh,1,out,12,8.0,3.0,0.0,150,Punjab Kings,53rd, Eden Gardens, May 08
+Shikhar Dhawan (c),2,out,57,47.0,9.0,1.0,121.27,Punjab Kings,53rd, Eden Gardens, May 08
+Bhanuka Rajapaksa,3,out,0,3.0,0.0,0.0,0,Punjab Kings,53rd, Eden Gardens, May 08
+Liam Livingstone,4,out,15,9.0,3.0,0.0,166.66,Punjab Kings,53rd, Eden Gardens, May 08
+Jitesh Sharma †,5,out,21,18.0,0.0,2.0,116.66,Punjab Kings,53rd, Eden Gardens, May 08
+Sam Curran,6,out,4,9.0,0.0,0.0,44.44,Punjab Kings,53rd, Eden Gardens, May 08
+Rishi Dhawan,7,out,19,11.0,1.0,1.0,172.72,Punjab Kings,53rd, Eden Gardens, May 08
+M Shahrukh Khan,8,not out,21,8.0,3.0,1.0,262.5,Punjab Kings,53rd, Eden Gardens, May 08
+Harpreet Brar,9,not out,17,9.0,2.0,1.0,188.88,Punjab Kings,53rd, Eden Gardens, May 08
+Jason Roy,1,out,38,24.0,8.0,0.0,158.33,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Rahmanullah Gurbaz †,2,out,15,12.0,1.0,1.0,125,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Nitish Rana (c),3,out,51,38.0,6.0,1.0,134.21,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Venkatesh Iyer,4,out,11,13.0,0.0,0.0,84.61,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Andre Russell,5,out,42,23.0,3.0,3.0,182.6,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Rinku Singh,6,not out,21,10.0,2.0,1.0,210,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Shardul Thakur,7,not out,0,0.0,0.0,0.0,-,Kolkata Knight Riders,53rd, Eden Gardens, May 08
+Virat Kohli,1,out,1,4.0,0.0,0.0,25,Royal Challengers Bangalore,54th, Wankhede, May 09
+Faf du Plessis (c),2,out,65,41.0,5.0,3.0,158.53,Royal Challengers Bangalore,54th, Wankhede, May 09
+Anuj Rawat,3,out,6,4.0,1.0,0.0,150,Royal Challengers Bangalore,54th, Wankhede, May 09
+Glenn Maxwell,4,out,68,33.0,8.0,4.0,206.06,Royal Challengers Bangalore,54th, Wankhede, May 09
+Mahipal Lomror,5,out,1,3.0,0.0,0.0,33.33,Royal Challengers Bangalore,54th, Wankhede, May 09
+Dinesh Karthik †,6,out,30,18.0,4.0,1.0,166.66,Royal Challengers Bangalore,54th, Wankhede, May 09
+Kedar Jadhav,7,not out,12,10.0,1.0,0.0,120,Royal Challengers Bangalore,54th, Wankhede, May 09
+Wanindu Hasaranga,8,not out,12,8.0,2.0,0.0,150,Royal Challengers Bangalore,54th, Wankhede, May 09
+Ishan Kishan †,1,out,42,21.0,4.0,4.0,200,Mumbai Indians,54th, Wankhede, May 09
+Rohit Sharma (c),2,out,7,8.0,1.0,0.0,87.5,Mumbai Indians,54th, Wankhede, May 09
+Suryakumar Yadav,3,out,83,35.0,7.0,6.0,237.14,Mumbai Indians,54th, Wankhede, May 09
+Nehal Wadhera,4,not out,52,34.0,4.0,3.0,152.94,Mumbai Indians,54th, Wankhede, May 09
+Tim David,5,out,0,1.0,0.0,0.0,0,Mumbai Indians,54th, Wankhede, May 09
+Cameron Green,6,not out,2,2.0,0.0,0.0,100,Mumbai Indians,54th, Wankhede, May 09
+Ruturaj Gaikwad,1,out,24,18.0,4.0,0.0,133.33,Chennai Super Kings,55th, Chennai, May 10
+Devon Conway,2,out,10,13.0,1.0,0.0,76.92,Chennai Super Kings,55th, Chennai, May 10
+Ajinkya Rahane,3,out,21,20.0,2.0,0.0,105,Chennai Super Kings,55th, Chennai, May 10
+Moeen Ali,4,out,7,12.0,0.0,0.0,58.33,Chennai Super Kings,55th, Chennai, May 10
+Shivam Dube,5,out,25,12.0,0.0,3.0,208.33,Chennai Super Kings,55th, Chennai, May 10
+Ambati Rayudu,6,out,23,17.0,1.0,1.0,135.29,Chennai Super Kings,55th, Chennai, May 10
+Ravindra Jadeja,7,out,21,16.0,1.0,1.0,131.25,Chennai Super Kings,55th, Chennai, May 10
+MS Dhoni (c)†,8,out,20,9.0,1.0,2.0,222.22,Chennai Super Kings,55th, Chennai, May 10
+Deepak Chahar,9,not out,1,2.0,0.0,0.0,50,Chennai Super Kings,55th, Chennai, May 10
+Tushar Deshpande,10,not out,0,1.0,0.0,0.0,0,Chennai Super Kings,55th, Chennai, May 10
+David Warner (c),1,out,0,2.0,0.0,0.0,0,Delhi Capitals,55th, Chennai, May 10
+Phil Salt †,2,out,17,11.0,1.0,2.0,154.54,Delhi Capitals,55th, Chennai, May 10
+Mitchell Marsh,3,out,5,4.0,1.0,0.0,125,Delhi Capitals,55th, Chennai, May 10
+Manish Pandey,4,out,27,29.0,1.0,2.0,93.1,Delhi Capitals,55th, Chennai, May 10
+Rilee Rossouw,5,out,35,37.0,2.0,1.0,94.59,Delhi Capitals,55th, Chennai, May 10
+Ripal Patel,6,out,10,16.0,0.0,0.0,62.5,Delhi Capitals,55th, Chennai, May 10
+Axar Patel,7,out,21,12.0,2.0,1.0,175,Delhi Capitals,55th, Chennai, May 10
+Aman Hakim Khan,8,not out,2,3.0,0.0,0.0,66.66,Delhi Capitals,55th, Chennai, May 10
+Lalit Yadav,9,out,12,5.0,3.0,0.0,240,Delhi Capitals,55th, Chennai, May 10
+Kuldeep Yadav,10,not out,0,1.0,0.0,0.0,0,Delhi Capitals,55th, Chennai, May 10
+Jason Roy,1,out,10,8.0,2.0,0.0,125,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Rahmanullah Gurbaz †,2,out,18,12.0,1.0,2.0,150,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Venkatesh Iyer,3,out,57,42.0,2.0,4.0,135.71,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Nitish Rana (c),4,out,22,17.0,2.0,0.0,129.41,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Andre Russell,5,out,10,10.0,0.0,1.0,100,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Rinku Singh,6,out,16,18.0,0.0,1.0,88.88,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Shardul Thakur,7,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Anukul Roy,8,not out,6,6.0,0.0,0.0,100,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Sunil Narine,9,out,6,5.0,1.0,0.0,120,Kolkata Knight Riders,56th, Eden Gardens, May 11
+Yashasvi Jaiswal,1,not out,98,47.0,12.0,5.0,208.51,Rajasthan Royals,56th, Eden Gardens, May 11
+Jos Buttler,2,out,0,3.0,0.0,0.0,0,Rajasthan Royals,56th, Eden Gardens, May 11
+Sanju Samson (c)†,3,not out,48,29.0,2.0,5.0,165.51,Rajasthan Royals,56th, Eden Gardens, May 11
+Ishan Kishan †,1,out,31,20.0,4.0,1.0,155,Mumbai Indians,57th, Wankhede, May 12
+Rohit Sharma (c),2,out,29,18.0,3.0,2.0,161.11,Mumbai Indians,57th, Wankhede, May 12
+Suryakumar Yadav,3,not out,103,49.0,11.0,6.0,210.2,Mumbai Indians,57th, Wankhede, May 12
+Nehal Wadhera,4,out,15,7.0,1.0,1.0,214.28,Mumbai Indians,57th, Wankhede, May 12
+Vishnu Vinod,5,out,30,20.0,2.0,2.0,150,Mumbai Indians,57th, Wankhede, May 12
+Tim David,6,out,5,3.0,1.0,0.0,166.66,Mumbai Indians,57th, Wankhede, May 12
+Cameron Green,7,not out,3,3.0,0.0,0.0,100,Mumbai Indians,57th, Wankhede, May 12
+Wriddhiman Saha †,1,out,2,5.0,0.0,0.0,40,Gujarat Titans,57th, Wankhede, May 12
+Shubman Gill,2,out,6,9.0,0.0,0.0,66.66,Gujarat Titans,57th, Wankhede, May 12
+Hardik Pandya (c),3,out,4,3.0,1.0,0.0,133.33,Gujarat Titans,57th, Wankhede, May 12
+Vijay Shankar,4,out,29,14.0,6.0,0.0,207.14,Gujarat Titans,57th, Wankhede, May 12
+David Miller,5,out,41,26.0,4.0,2.0,157.69,Gujarat Titans,57th, Wankhede, May 12
+Abhinav Manohar,6,out,2,3.0,0.0,0.0,66.66,Gujarat Titans,57th, Wankhede, May 12
+Rahul Tewatia,7,out,14,13.0,1.0,0.0,107.69,Gujarat Titans,57th, Wankhede, May 12
+Rashid Khan,8,not out,79,32.0,3.0,10.0,246.87,Gujarat Titans,57th, Wankhede, May 12
+Noor Ahmad,9,out,1,3.0,0.0,0.0,33.33,Gujarat Titans,57th, Wankhede, May 12
+Alzarri Joseph,10,not out,7,12.0,1.0,0.0,58.33,Gujarat Titans,57th, Wankhede, May 12
+Anmolpreet Singh,1,out,36,27.0,7.0,0.0,133.33,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Abhishek Sharma,2,out,7,5.0,1.0,0.0,140,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Rahul Tripathi,3,out,20,13.0,4.0,0.0,153.84,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Aiden Markram (c),4,out,28,20.0,2.0,1.0,140,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Heinrich Klaasen †,5,out,47,29.0,3.0,3.0,162.06,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Glenn Phillips,6,out,0,1.0,0.0,0.0,0,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Abdul Samad,7,not out,37,25.0,1.0,4.0,148,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Bhuvneshwar Kumar,8,not out,2,1.0,0.0,0.0,200,Sunrisers Hyderabad,58th, Hyderabad, May 13
+Kyle Mayers,1,out,2,14.0,0.0,0.0,14.28,Lucknow Super Giants,58th, Hyderabad, May 13
+Quinton de Kock †,2,out,29,19.0,3.0,1.0,152.63,Lucknow Super Giants,58th, Hyderabad, May 13
+Prerak Mankad,3,not out,64,45.0,7.0,2.0,142.22,Lucknow Super Giants,58th, Hyderabad, May 13
+Marcus Stoinis,4,out,40,25.0,2.0,3.0,160,Lucknow Super Giants,58th, Hyderabad, May 13
+Nicholas Pooran,5,not out,44,13.0,3.0,4.0,338.46,Lucknow Super Giants,58th, Hyderabad, May 13
+Prabhsimran Singh,1,out,103,65.0,10.0,6.0,158.46,Punjab Kings,59th, Delhi, May 13
+Shikhar Dhawan (c),2,out,7,5.0,0.0,1.0,140,Punjab Kings,59th, Delhi, May 13
+Liam Livingstone,3,out,4,5.0,1.0,0.0,80,Punjab Kings,59th, Delhi, May 13
+Jitesh Sharma †,4,out,5,5.0,1.0,0.0,100,Punjab Kings,59th, Delhi, May 13
+Sam Curran,5,out,20,24.0,1.0,0.0,83.33,Punjab Kings,59th, Delhi, May 13
+Harpreet Brar,6,out,2,5.0,0.0,0.0,40,Punjab Kings,59th, Delhi, May 13
+M Shahrukh Khan,7,out,2,4.0,0.0,0.0,50,Punjab Kings,59th, Delhi, May 13
+Sikandar Raza,8,not out,11,7.0,0.0,1.0,157.14,Punjab Kings,59th, Delhi, May 13
+Rishi Dhawan,9,not out,0,0.0,0.0,0.0,-,Punjab Kings,59th, Delhi, May 13
+David Warner (c),1,out,54,27.0,10.0,1.0,200,Delhi Capitals,59th, Delhi, May 13
+Phil Salt †,2,out,21,17.0,3.0,0.0,123.52,Delhi Capitals,59th, Delhi, May 13
+Mitchell Marsh,3,out,3,4.0,0.0,0.0,75,Delhi Capitals,59th, Delhi, May 13
+Rilee Rossouw,4,out,5,5.0,1.0,0.0,100,Delhi Capitals,59th, Delhi, May 13
+Axar Patel,5,out,1,2.0,0.0,0.0,50,Delhi Capitals,59th, Delhi, May 13
+Manish Pandey,6,out,0,3.0,0.0,0.0,0,Delhi Capitals,59th, Delhi, May 13
+Aman Hakim Khan,7,out,16,18.0,1.0,1.0,88.88,Delhi Capitals,59th, Delhi, May 13
+Praveen Dubey,8,out,16,20.0,2.0,0.0,80,Delhi Capitals,59th, Delhi, May 13
+Kuldeep Yadav,9,not out,10,17.0,0.0,0.0,58.82,Delhi Capitals,59th, Delhi, May 13
+Mukesh Kumar,10,not out,6,7.0,0.0,0.0,85.71,Delhi Capitals,59th, Delhi, May 13
+Virat Kohli,1,out,18,19.0,1.0,0.0,94.73,Royal Challengers Bangalore,60th, Jaipur, May 14
+Faf du Plessis (c),2,out,55,44.0,3.0,2.0,125,Royal Challengers Bangalore,60th, Jaipur, May 14
+Glenn Maxwell,3,out,54,33.0,5.0,3.0,163.63,Royal Challengers Bangalore,60th, Jaipur, May 14
+Mahipal Lomror,4,out,1,2.0,0.0,0.0,50,Royal Challengers Bangalore,60th, Jaipur, May 14
+Dinesh Karthik †,5,out,0,2.0,0.0,0.0,0,Royal Challengers Bangalore,60th, Jaipur, May 14
+Michael Bracewell,6,not out,9,9.0,0.0,0.0,100,Royal Challengers Bangalore,60th, Jaipur, May 14
+Anuj Rawat,7,not out,29,11.0,3.0,2.0,263.63,Royal Challengers Bangalore,60th, Jaipur, May 14
+Yashasvi Jaiswal,1,out,0,2.0,0.0,0.0,0,Rajasthan Royals,60th, Jaipur, May 14
+Jos Buttler,2,out,0,2.0,0.0,0.0,0,Rajasthan Royals,60th, Jaipur, May 14
+Sanju Samson (c)†,3,out,4,5.0,1.0,0.0,80,Rajasthan Royals,60th, Jaipur, May 14
+Joe Root,4,out,10,15.0,1.0,0.0,66.66,Rajasthan Royals,60th, Jaipur, May 14
+Devdutt Padikkal,5,out,4,4.0,1.0,0.0,100,Rajasthan Royals,60th, Jaipur, May 14
+Shimron Hetmyer,6,out,35,19.0,1.0,4.0,184.21,Rajasthan Royals,60th, Jaipur, May 14
+Dhruv Jurel,7,out,1,7.0,0.0,0.0,14.28,Rajasthan Royals,60th, Jaipur, May 14
+Ravichandran Ashwin,8,out,0,0.0,0.0,0.0,-,Rajasthan Royals,60th, Jaipur, May 14
+Adam Zampa,9,out,2,6.0,0.0,0.0,33.33,Rajasthan Royals,60th, Jaipur, May 14
+Sandeep Sharma,10,not out,0,1.0,0.0,0.0,0,Rajasthan Royals,60th, Jaipur, May 14
+KM Asif,11,out,0,2.0,0.0,0.0,0,Rajasthan Royals,60th, Jaipur, May 14
+Ruturaj Gaikwad,1,out,17,13.0,2.0,0.0,130.76,Chennai Super Kings,61st, Chennai, May 14
+Devon Conway,2,out,30,28.0,3.0,0.0,107.14,Chennai Super Kings,61st, Chennai, May 14
+Ajinkya Rahane,3,out,16,11.0,1.0,1.0,145.45,Chennai Super Kings,61st, Chennai, May 14
+Ambati Rayudu,4,out,4,7.0,0.0,0.0,57.14,Chennai Super Kings,61st, Chennai, May 14
+Shivam Dube,5,not out,48,34.0,1.0,3.0,141.17,Chennai Super Kings,61st, Chennai, May 14
+Moeen Ali,6,out,1,2.0,0.0,0.0,50,Chennai Super Kings,61st, Chennai, May 14
+Ravindra Jadeja,7,out,20,24.0,0.0,1.0,83.33,Chennai Super Kings,61st, Chennai, May 14
+MS Dhoni (c)†,8,not out,2,3.0,0.0,0.0,66.66,Chennai Super Kings,61st, Chennai, May 14
+Jason Roy,1,out,12,15.0,1.0,0.0,80,Kolkata Knight Riders,61st, Chennai, May 14
+Rahmanullah Gurbaz †,2,out,1,4.0,0.0,0.0,25,Kolkata Knight Riders,61st, Chennai, May 14
+Venkatesh Iyer,3,out,9,4.0,2.0,0.0,225,Kolkata Knight Riders,61st, Chennai, May 14
+Nitish Rana (c),4,not out,57,44.0,6.0,1.0,129.54,Kolkata Knight Riders,61st, Chennai, May 14
+Rinku Singh,5,out,54,43.0,4.0,3.0,125.58,Kolkata Knight Riders,61st, Chennai, May 14
+Andre Russell,6,not out,2,2.0,0.0,0.0,100,Kolkata Knight Riders,61st, Chennai, May 14
+Wriddhiman Saha †,1,out,0,3.0,0.0,0.0,0,Gujarat Titans,62nd, Ahmedabad, May 15
+Shubman Gill,2,out,101,58.0,13.0,1.0,174.13,Gujarat Titans,62nd, Ahmedabad, May 15
+Sai Sudharsan,3,out,47,36.0,6.0,1.0,130.55,Gujarat Titans,62nd, Ahmedabad, May 15
+Hardik Pandya (c),4,out,8,6.0,1.0,0.0,133.33,Gujarat Titans,62nd, Ahmedabad, May 15
+David Miller,5,out,7,5.0,1.0,0.0,140,Gujarat Titans,62nd, Ahmedabad, May 15
+Rahul Tewatia,6,out,3,3.0,0.0,0.0,100,Gujarat Titans,62nd, Ahmedabad, May 15
+Dasun Shanaka,7,not out,9,7.0,1.0,0.0,128.57,Gujarat Titans,62nd, Ahmedabad, May 15
+Rashid Khan,8,out,0,1.0,0.0,0.0,0,Gujarat Titans,62nd, Ahmedabad, May 15
+Noor Ahmad,9,out,0,1.0,0.0,0.0,0,Gujarat Titans,62nd, Ahmedabad, May 15
+Mohammed Shami,10,out,0,1.0,0.0,0.0,0,Gujarat Titans,62nd, Ahmedabad, May 15
+Mohit Sharma,11,not out,0,1.0,0.0,0.0,0,Gujarat Titans,62nd, Ahmedabad, May 15
+Anmolpreet Singh,1,out,5,4.0,1.0,0.0,125,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Abhishek Sharma,2,out,5,5.0,1.0,0.0,100,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Aiden Markram (c),3,out,10,10.0,1.0,0.0,100,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Rahul Tripathi,4,out,1,2.0,0.0,0.0,50,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Heinrich Klaasen †,5,out,64,44.0,4.0,3.0,145.45,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Sanvir Singh,6,out,7,6.0,0.0,1.0,116.66,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Abdul Samad,7,out,4,3.0,1.0,0.0,133.33,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Marco Jansen,8,out,3,6.0,0.0,0.0,50,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Bhuvneshwar Kumar,9,out,27,26.0,3.0,0.0,103.84,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Mayank Markande,10,not out,18,9.0,2.0,1.0,200,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Fazalhaq Farooqi,11,not out,1,5.0,0.0,0.0,20,Sunrisers Hyderabad,62nd, Ahmedabad, May 15
+Deepak Hooda,1,out,5,7.0,0.0,0.0,71.42,Lucknow Super Giants,63rd, Lucknow, May 16
+Quinton de Kock †,2,out,16,15.0,0.0,2.0,106.66,Lucknow Super Giants,63rd, Lucknow, May 16
+Prerak Mankad,3,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,63rd, Lucknow, May 16
+Krunal Pandya (c),4,out,49,42.0,1.0,1.0,116.66,Lucknow Super Giants,63rd, Lucknow, May 16
+Marcus Stoinis,5,not out,89,47.0,4.0,8.0,189.36,Lucknow Super Giants,63rd, Lucknow, May 16
+Nicholas Pooran,6,not out,8,8.0,1.0,0.0,100,Lucknow Super Giants,63rd, Lucknow, May 16
+Ishan Kishan †,1,out,59,39.0,8.0,1.0,151.28,Mumbai Indians,63rd, Lucknow, May 16
+Rohit Sharma (c),2,out,37,25.0,1.0,3.0,148,Mumbai Indians,63rd, Lucknow, May 16
+Suryakumar Yadav,3,out,7,9.0,0.0,0.0,77.77,Mumbai Indians,63rd, Lucknow, May 16
+Nehal Wadhera,4,out,16,20.0,2.0,0.0,80,Mumbai Indians,63rd, Lucknow, May 16
+Tim David,5,not out,32,19.0,1.0,3.0,168.42,Mumbai Indians,63rd, Lucknow, May 16
+Vishnu Vinod,6,out,2,4.0,0.0,0.0,50,Mumbai Indians,63rd, Lucknow, May 16
+Cameron Green,7,not out,4,6.0,0.0,0.0,66.66,Mumbai Indians,63rd, Lucknow, May 16
+David Warner (c),1,out,46,31.0,5.0,2.0,148.38,Delhi Capitals,64th, Dharamsala, May 17
+Prithvi Shaw,2,out,54,38.0,7.0,1.0,142.1,Delhi Capitals,64th, Dharamsala, May 17
+Rilee Rossouw,3,not out,82,37.0,6.0,6.0,221.62,Delhi Capitals,64th, Dharamsala, May 17
+Phil Salt †,4,not out,26,14.0,2.0,2.0,185.71,Delhi Capitals,64th, Dharamsala, May 17
+Prabhsimran Singh,1,out,22,19.0,4.0,0.0,115.78,Punjab Kings,64th, Dharamsala, May 17
+Shikhar Dhawan (c),2,out,0,1.0,0.0,0.0,0,Punjab Kings,64th, Dharamsala, May 17
+Atharva Taide,3,out,55,42.0,5.0,2.0,130.95,Punjab Kings,64th, Dharamsala, May 17
+Liam Livingstone,4,out,94,48.0,5.0,9.0,195.83,Punjab Kings,64th, Dharamsala, May 17
+Jitesh Sharma †,5,out,0,3.0,0.0,0.0,0,Punjab Kings,64th, Dharamsala, May 17
+M Shahrukh Khan,6,out,6,3.0,0.0,1.0,200,Punjab Kings,64th, Dharamsala, May 17
+Sam Curran,7,out,11,5.0,1.0,1.0,220,Punjab Kings,64th, Dharamsala, May 17
+Harpreet Brar,8,out,0,1.0,0.0,0.0,0,Punjab Kings,64th, Dharamsala, May 17
+Rahul Chahar,9,not out,0,0.0,0.0,0.0,-,Punjab Kings,64th, Dharamsala, May 17
+Abhishek Sharma,1,out,11,14.0,2.0,0.0,78.57,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Rahul Tripathi,2,out,15,12.0,2.0,1.0,125,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Aiden Markram (c),3,out,18,20.0,0.0,0.0,90,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Heinrich Klaasen †,4,out,104,51.0,8.0,6.0,203.92,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Harry Brook,5,not out,27,19.0,2.0,1.0,142.1,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Glenn Phillips,6,out,5,4.0,1.0,0.0,125,Sunrisers Hyderabad,65th, Hyderabad, May 18
+Virat Kohli,1,out,100,63.0,12.0,4.0,158.73,Royal Challengers Bangalore,65th, Hyderabad, May 18
+Faf du Plessis (c),2,out,71,47.0,7.0,2.0,151.06,Royal Challengers Bangalore,65th, Hyderabad, May 18
+Glenn Maxwell,3,not out,5,3.0,1.0,0.0,166.66,Royal Challengers Bangalore,65th, Hyderabad, May 18
+Michael Bracewell,4,not out,4,4.0,0.0,0.0,100,Royal Challengers Bangalore,65th, Hyderabad, May 18
+Prabhsimran Singh,1,out,2,2.0,0.0,0.0,100,Punjab Kings,66th, Dharamsala, May 19
+Shikhar Dhawan (c),2,out,17,12.0,2.0,1.0,141.66,Punjab Kings,66th, Dharamsala, May 19
+Atharva Taide,3,out,19,12.0,3.0,1.0,158.33,Punjab Kings,66th, Dharamsala, May 19
+Liam Livingstone,4,out,9,13.0,1.0,0.0,69.23,Punjab Kings,66th, Dharamsala, May 19
+Sam Curran,5,not out,49,31.0,4.0,2.0,158.06,Punjab Kings,66th, Dharamsala, May 19
+Jitesh Sharma †,6,out,44,28.0,3.0,3.0,157.14,Punjab Kings,66th, Dharamsala, May 19
+M Shahrukh Khan,7,not out,41,23.0,4.0,2.0,178.26,Punjab Kings,66th, Dharamsala, May 19
+Yashasvi Jaiswal,1,out,50,36.0,8.0,0.0,138.88,Rajasthan Royals,66th, Dharamsala, May 19
+Jos Buttler,2,out,0,4.0,0.0,0.0,0,Rajasthan Royals,66th, Dharamsala, May 19
+Devdutt Padikkal,3,out,51,30.0,5.0,3.0,170,Rajasthan Royals,66th, Dharamsala, May 19
+Sanju Samson (c)†,4,out,2,3.0,0.0,0.0,66.66,Rajasthan Royals,66th, Dharamsala, May 19
+Shimron Hetmyer,5,out,46,28.0,4.0,3.0,164.28,Rajasthan Royals,66th, Dharamsala, May 19
+Riyan Parag,6,out,20,12.0,1.0,2.0,166.66,Rajasthan Royals,66th, Dharamsala, May 19
+Dhruv Jurel,7,not out,10,4.0,0.0,1.0,250,Rajasthan Royals,66th, Dharamsala, May 19
+Trent Boult,8,not out,1,2.0,0.0,0.0,50,Rajasthan Royals,66th, Dharamsala, May 19
+Ruturaj Gaikwad,1,out,79,50.0,3.0,7.0,158,Chennai Super Kings,67th, Delhi, May 20
+Devon Conway,2,out,87,52.0,11.0,3.0,167.3,Chennai Super Kings,67th, Delhi, May 20
+Shivam Dube,3,out,22,9.0,0.0,3.0,244.44,Chennai Super Kings,67th, Delhi, May 20
+MS Dhoni (c)†,4,not out,5,4.0,0.0,0.0,125,Chennai Super Kings,67th, Delhi, May 20
+Ravindra Jadeja,5,not out,20,7.0,3.0,1.0,285.71,Chennai Super Kings,67th, Delhi, May 20
+Prithvi Shaw,1,out,5,7.0,1.0,0.0,71.42,Delhi Capitals,67th, Delhi, May 20
+David Warner (c),2,out,86,58.0,7.0,5.0,148.27,Delhi Capitals,67th, Delhi, May 20
+Phil Salt †,3,out,3,6.0,0.0,0.0,50,Delhi Capitals,67th, Delhi, May 20
+Rilee Rossouw,4,out,0,1.0,0.0,0.0,0,Delhi Capitals,67th, Delhi, May 20
+Yash Dhull,5,out,13,15.0,1.0,0.0,86.66,Delhi Capitals,67th, Delhi, May 20
+Axar Patel,6,out,15,8.0,1.0,1.0,187.5,Delhi Capitals,67th, Delhi, May 20
+Aman Hakim Khan,7,out,7,9.0,1.0,0.0,77.77,Delhi Capitals,67th, Delhi, May 20
+Lalit Yadav,8,out,6,12.0,0.0,0.0,50,Delhi Capitals,67th, Delhi, May 20
+Anrich Nortje,9,not out,0,1.0,0.0,0.0,0,Delhi Capitals,67th, Delhi, May 20
+Kuldeep Yadav,10,out,0,1.0,0.0,0.0,0,Delhi Capitals,67th, Delhi, May 20
+Chetan Sakariya,11,not out,0,2.0,0.0,0.0,0,Delhi Capitals,67th, Delhi, May 20
+Karan Sharma,1,out,3,5.0,0.0,0.0,60,Lucknow Super Giants,68th, Eden Gardens, May 20
+Quinton de Kock †,2,out,28,27.0,0.0,2.0,103.7,Lucknow Super Giants,68th, Eden Gardens, May 20
+Prerak Mankad,3,out,26,20.0,5.0,0.0,130,Lucknow Super Giants,68th, Eden Gardens, May 20
+Marcus Stoinis,4,out,0,2.0,0.0,0.0,0,Lucknow Super Giants,68th, Eden Gardens, May 20
+Krunal Pandya (c),5,out,9,8.0,0.0,1.0,112.5,Lucknow Super Giants,68th, Eden Gardens, May 20
+Ayush Badoni,6,out,25,21.0,2.0,1.0,119.04,Lucknow Super Giants,68th, Eden Gardens, May 20
+Nicholas Pooran,7,out,58,30.0,4.0,5.0,193.33,Lucknow Super Giants,68th, Eden Gardens, May 20
+Krishnappa Gowtham,8,not out,11,4.0,1.0,1.0,275,Lucknow Super Giants,68th, Eden Gardens, May 20
+Ravi Bishnoi,9,out,2,2.0,0.0,0.0,100,Lucknow Super Giants,68th, Eden Gardens, May 20
+Naveen-ul-Haq,10,not out,2,3.0,0.0,0.0,66.66,Lucknow Super Giants,68th, Eden Gardens, May 20
+Jason Roy,1,out,45,28.0,7.0,1.0,160.71,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Venkatesh Iyer,2,out,24,15.0,3.0,1.0,160,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Nitish Rana (c),3,out,8,10.0,1.0,0.0,80,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Rahmanullah Gurbaz †,4,out,10,15.0,0.0,0.0,66.66,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Rinku Singh,5,not out,67,33.0,6.0,4.0,203.03,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Andre Russell,6,out,7,9.0,0.0,1.0,77.77,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Shardul Thakur,7,out,3,7.0,0.0,0.0,42.85,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Sunil Narine,8,out,1,2.0,0.0,0.0,50,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Vaibhav Arora,9,not out,1,1.0,0.0,0.0,100,Kolkata Knight Riders,68th, Eden Gardens, May 20
+Vivrant Sharma,1,out,69,47.0,9.0,2.0,146.8,Sunrisers Hyderabad,69th, Wankhede, May 21
+Mayank Agarwal,2,out,83,46.0,8.0,4.0,180.43,Sunrisers Hyderabad,69th, Wankhede, May 21
+Heinrich Klaasen †,3,out,18,13.0,2.0,0.0,138.46,Sunrisers Hyderabad,69th, Wankhede, May 21
+Glenn Phillips,4,out,1,4.0,0.0,0.0,25,Sunrisers Hyderabad,69th, Wankhede, May 21
+Aiden Markram (c),5,not out,13,7.0,0.0,1.0,185.71,Sunrisers Hyderabad,69th, Wankhede, May 21
+Harry Brook,6,out,0,1.0,0.0,0.0,0,Sunrisers Hyderabad,69th, Wankhede, May 21
+Sanvir Singh,7,not out,4,3.0,1.0,0.0,133.33,Sunrisers Hyderabad,69th, Wankhede, May 21
+Ishan Kishan †,1,out,14,12.0,1.0,1.0,116.66,Mumbai Indians,69th, Wankhede, May 21
+Rohit Sharma (c),2,out,56,37.0,8.0,1.0,151.35,Mumbai Indians,69th, Wankhede, May 21
+Cameron Green,3,not out,100,47.0,8.0,8.0,212.76,Mumbai Indians,69th, Wankhede, May 21
+Suryakumar Yadav,4,not out,25,16.0,4.0,0.0,156.25,Mumbai Indians,69th, Wankhede, May 21
+Virat Kohli,1,not out,101,61.0,13.0,1.0,165.57,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Faf du Plessis (c),2,out,28,19.0,5.0,0.0,147.36,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Glenn Maxwell,3,out,11,5.0,1.0,1.0,220,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Mahipal Lomror,4,out,1,3.0,0.0,0.0,33.33,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Michael Bracewell,5,out,26,16.0,5.0,0.0,162.5,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Dinesh Karthik,6,out,0,1.0,0.0,0.0,0,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Anuj Rawat †,7,not out,23,15.0,1.0,1.0,153.33,Royal Challengers Bangalore,70th, Bengaluru, May 21
+Wriddhiman Saha †,1,out,12,14.0,2.0,0.0,85.71,Gujarat Titans,70th, Bengaluru, May 21
+Shubman Gill,2,not out,104,52.0,5.0,8.0,200,Gujarat Titans,70th, Bengaluru, May 21
+Vijay Shankar,3,out,53,35.0,7.0,2.0,151.42,Gujarat Titans,70th, Bengaluru, May 21
+Dasun Shanaka,4,out,0,3.0,0.0,0.0,0,Gujarat Titans,70th, Bengaluru, May 21
+David Miller,5,out,6,7.0,1.0,0.0,85.71,Gujarat Titans,70th, Bengaluru, May 21
+Rahul Tewatia,6,not out,4,5.0,0.0,0.0,80,Gujarat Titans,70th, Bengaluru, May 21
+Ruturaj Gaikwad,1,out,60,44.0,7.0,1.0,136.36,Chennai Super Kings,Qualifier, Chennai, May 23
+Devon Conway,2,out,40,34.0,4.0,0.0,117.64,Chennai Super Kings,Qualifier, Chennai, May 23
+Shivam Dube,3,out,1,3.0,0.0,0.0,33.33,Chennai Super Kings,Qualifier, Chennai, May 23
+Ajinkya Rahane,4,out,17,10.0,0.0,1.0,170,Chennai Super Kings,Qualifier, Chennai, May 23
+Ambati Rayudu,5,out,17,9.0,1.0,1.0,188.88,Chennai Super Kings,Qualifier, Chennai, May 23
+Ravindra Jadeja,6,out,22,16.0,2.0,0.0,137.5,Chennai Super Kings,Qualifier, Chennai, May 23
+MS Dhoni (c)†,7,out,1,2.0,0.0,0.0,50,Chennai Super Kings,Qualifier, Chennai, May 23
+Moeen Ali,8,not out,9,4.0,0.0,1.0,225,Chennai Super Kings,Qualifier, Chennai, May 23
+Wriddhiman Saha †,1,out,12,11.0,2.0,0.0,109.09,Gujarat Titans,Qualifier, Chennai, May 23
+Shubman Gill,2,out,42,38.0,4.0,1.0,110.52,Gujarat Titans,Qualifier, Chennai, May 23
+Hardik Pandya (c),3,out,8,7.0,1.0,0.0,114.28,Gujarat Titans,Qualifier, Chennai, May 23
+Dasun Shanaka,4,out,17,16.0,1.0,1.0,106.25,Gujarat Titans,Qualifier, Chennai, May 23
+David Miller,5,out,4,6.0,0.0,0.0,66.66,Gujarat Titans,Qualifier, Chennai, May 23
+Vijay Shankar,6,out,14,10.0,0.0,1.0,140,Gujarat Titans,Qualifier, Chennai, May 23
+Rahul Tewatia,7,out,3,5.0,0.0,0.0,60,Gujarat Titans,Qualifier, Chennai, May 23
+Rashid Khan,8,out,30,16.0,3.0,2.0,187.5,Gujarat Titans,Qualifier, Chennai, May 23
+Darshan Nalkande,9,out,0,1.0,0.0,0.0,0,Gujarat Titans,Qualifier, Chennai, May 23
+Noor Ahmad,10,not out,7,5.0,1.0,0.0,140,Gujarat Titans,Qualifier, Chennai, May 23
+Mohammed Shami,11,out,5,5.0,1.0,0.0,100,Gujarat Titans,Qualifier, Chennai, May 23
+Ishan Kishan †,1,out,15,12.0,3.0,0.0,125,Mumbai Indians,Eliminator, Chennai, May 24
+Rohit Sharma (c),2,out,11,10.0,1.0,1.0,110,Mumbai Indians,Eliminator, Chennai, May 24
+Cameron Green,3,out,41,23.0,6.0,1.0,178.26,Mumbai Indians,Eliminator, Chennai, May 24
+Suryakumar Yadav,4,out,33,20.0,2.0,2.0,165,Mumbai Indians,Eliminator, Chennai, May 24
+Tilak Varma,5,out,26,22.0,0.0,2.0,118.18,Mumbai Indians,Eliminator, Chennai, May 24
+Tim David,6,out,13,13.0,1.0,0.0,100,Mumbai Indians,Eliminator, Chennai, May 24
+Nehal Wadhera,7,out,23,12.0,2.0,2.0,191.66,Mumbai Indians,Eliminator, Chennai, May 24
+Chris Jordan,8,out,4,7.0,0.0,0.0,57.14,Mumbai Indians,Eliminator, Chennai, May 24
+Hrithik Shokeen,9,not out,0,1.0,0.0,0.0,0,Mumbai Indians,Eliminator, Chennai, May 24
+Kyle Mayers,1,out,18,13.0,3.0,0.0,138.46,Lucknow Super Giants,Eliminator, Chennai, May 24
+Prerak Mankad,2,out,3,6.0,0.0,0.0,50,Lucknow Super Giants,Eliminator, Chennai, May 24
+Krunal Pandya (c),3,out,8,11.0,1.0,0.0,72.72,Lucknow Super Giants,Eliminator, Chennai, May 24
+Marcus Stoinis,4,out,40,27.0,5.0,1.0,148.14,Lucknow Super Giants,Eliminator, Chennai, May 24
+Ayush Badoni,5,out,1,7.0,0.0,0.0,14.28,Lucknow Super Giants,Eliminator, Chennai, May 24
+Nicholas Pooran †,6,out,0,1.0,0.0,0.0,0,Lucknow Super Giants,Eliminator, Chennai, May 24
+Deepak Hooda,7,out,15,13.0,0.0,1.0,115.38,Lucknow Super Giants,Eliminator, Chennai, May 24
+Krishnappa Gowtham,8,out,2,3.0,0.0,0.0,66.66,Lucknow Super Giants,Eliminator, Chennai, May 24
+Ravi Bishnoi,9,out,3,6.0,0.0,0.0,50,Lucknow Super Giants,Eliminator, Chennai, May 24
+Naveen-ul-Haq,10,not out,1,5.0,0.0,0.0,20,Lucknow Super Giants,Eliminator, Chennai, May 24
+Mohsin Khan,11,out,0,7.0,0.0,0.0,0,Lucknow Super Giants,Eliminator, Chennai, May 24
+Wriddhiman Saha †,1,out,18,16.0,3.0,0.0,112.5,Gujarat Titans,Qualifier, Ahmedabad, May 26
+Shubman Gill,2,out,129,60.0,7.0,10.0,215,Gujarat Titans,Qualifier, Ahmedabad, May 26
+Sai Sudharsan,3,out,43,31.0,5.0,1.0,138.7,Gujarat Titans,Qualifier, Ahmedabad, May 26
+Hardik Pandya (c),4,not out,28,13.0,2.0,2.0,215.38,Gujarat Titans,Qualifier, Ahmedabad, May 26
+Rashid Khan,5,not out,5,2.0,1.0,0.0,250,Gujarat Titans,Qualifier, Ahmedabad, May 26
+Rohit Sharma (c),1,out,8,7.0,1.0,0.0,114.28,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Nehal Wadhera,2,out,4,3.0,1.0,0.0,133.33,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Cameron Green,3,out,30,20.0,2.0,2.0,150,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Suryakumar Yadav,4,out,61,38.0,7.0,2.0,160.52,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Tilak Varma,5,out,43,14.0,5.0,3.0,307.14,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Vishnu Vinod †,6,out,5,7.0,0.0,0.0,71.42,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Tim David,7,out,2,3.0,0.0,0.0,66.66,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Chris Jordan,8,out,2,5.0,0.0,0.0,40,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Piyush Chawla,9,out,0,2.0,0.0,0.0,0,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Kumar Kartikeya,10,out,6,7.0,1.0,0.0,85.71,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Jason Behrendorff,11,not out,3,5.0,0.0,0.0,60,Mumbai Indians,Qualifier, Ahmedabad, May 26
+Wriddhiman Saha †,1,out,54,39.0,5.0,1.0,138.46,Gujarat Titans,Final, Ahmedabad, May 28 - 29
+Shubman Gill,2,out,39,20.0,7.0,0.0,195,Gujarat Titans,Final, Ahmedabad, May 28 - 29
+Sai Sudharsan,3,out,96,47.0,8.0,6.0,204.25,Gujarat Titans,Final, Ahmedabad, May 28 - 29
+Hardik Pandya (c),4,not out,21,12.0,0.0,2.0,175,Gujarat Titans,Final, Ahmedabad, May 28 - 29
+Rashid Khan,5,out,0,2.0,0.0,0.0,0,Gujarat Titans,Final, Ahmedabad, May 28 - 29
+Ruturaj Gaikwad,1,out,26,16.0,3.0,1.0,162.5,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+Devon Conway,2,out,47,25.0,4.0,2.0,188,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+Shivam Dube,3,not out,32,21.0,0.0,2.0,152.38,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+Ajinkya Rahane,4,out,27,13.0,2.0,2.0,207.69,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+Ambati Rayudu,5,out,19,8.0,1.0,2.0,237.5,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+MS Dhoni (c)†,6,out,0,1.0,0.0,0.0,0,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
+Ravindra Jadeja,7,not out,15,6.0,1.0,1.0,250,Chennai Super Kings,Final, Ahmedabad, May 28 - 29
