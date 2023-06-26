@@ -1,0 +1,668 @@
+[
+    {
+        "Team 1": "Titans",
+        "Team 2": "Super Kings",
+        "Winner": "Titans",
+        "Margin": "5 wickets",
+        "Groung": "Ahmedabad",
+        "MatchDate": "Mar 31, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "KKR",
+        "Winner": "Punjab Kings",
+        "Margin": "7 runs",
+        "Groung": "Mohali",
+        "MatchDate": "Apr 1, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Capitals",
+        "Winner": "Super Giants",
+        "Margin": "50 runs",
+        "Groung": "Lucknow",
+        "MatchDate": "Apr 1, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "Royals",
+        "Winner": "Royals",
+        "Margin": "72 runs",
+        "Groung": "Hyderabad",
+        "MatchDate": "Apr 2, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Mumbai",
+        "Winner": "RCB",
+        "Margin": "8 wickets",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 2, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Super Giants",
+        "Winner": "Super Kings",
+        "Margin": "12 runs",
+        "Groung": "Chennai",
+        "MatchDate": "Apr 3, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "6 wickets",
+        "Groung": "Delhi",
+        "MatchDate": "Apr 4, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Punjab Kings",
+        "Winner": "Punjab Kings",
+        "Margin": "5 runs",
+        "Groung": "Guwahati",
+        "MatchDate": "Apr 5, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "RCB",
+        "Winner": "KKR",
+        "Margin": "81 runs",
+        "Groung": "Eden Gardens",
+        "MatchDate": "Apr 6, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Sunrisers",
+        "Winner": "Super Giants",
+        "Margin": "5 wickets",
+        "Groung": "Lucknow",
+        "MatchDate": "Apr 7, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Capitals",
+        "Winner": "Royals",
+        "Margin": "57 runs",
+        "Groung": "Guwahati",
+        "MatchDate": "Apr 8, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "Super Kings",
+        "Winner": "Super Kings",
+        "Margin": "7 wickets",
+        "Groung": "Wankhede",
+        "MatchDate": "Apr 8, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "KKR",
+        "Winner": "KKR",
+        "Margin": "3 wickets",
+        "Groung": "Ahmedabad",
+        "MatchDate": "Apr 9, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "Punjab Kings",
+        "Winner": "Sunrisers",
+        "Margin": "8 wickets",
+        "Groung": "Hyderabad",
+        "MatchDate": "Apr 9, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Super Giants",
+        "Winner": "Super Giants",
+        "Margin": "1 wicket",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 10, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "Mumbai",
+        "Winner": "Mumbai",
+        "Margin": "6 wickets",
+        "Groung": "Delhi",
+        "MatchDate": "Apr 11, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Royals",
+        "Winner": "Royals",
+        "Margin": "3 runs",
+        "Groung": "Chennai",
+        "MatchDate": "Apr 12, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "6 wickets",
+        "Groung": "Mohali",
+        "MatchDate": "Apr 13, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Sunrisers",
+        "Winner": "Sunrisers",
+        "Margin": "23 runs",
+        "Groung": "Eden Gardens",
+        "MatchDate": "Apr 14, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Capitals",
+        "Winner": "RCB",
+        "Margin": "23 runs",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 15, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Punjab Kings",
+        "Winner": "Punjab Kings",
+        "Margin": "2 wickets",
+        "Groung": "Lucknow",
+        "MatchDate": "Apr 15, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "KKR",
+        "Winner": "Mumbai",
+        "Margin": "5 wickets",
+        "Groung": "Wankhede",
+        "MatchDate": "Apr 16, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Royals",
+        "Winner": "Royals",
+        "Margin": "3 wickets",
+        "Groung": "Ahmedabad",
+        "MatchDate": "Apr 16, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Super Kings",
+        "Winner": "Super Kings",
+        "Margin": "8 runs",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 17, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "Mumbai",
+        "Winner": "Mumbai",
+        "Margin": "14 runs",
+        "Groung": "Hyderabad",
+        "MatchDate": "Apr 18, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Super Giants",
+        "Winner": "Super Giants",
+        "Margin": "10 runs",
+        "Groung": "Jaipur",
+        "MatchDate": "Apr 19, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "RCB",
+        "Winner": "RCB",
+        "Margin": "24 runs",
+        "Groung": "Mohali",
+        "MatchDate": "Apr 20, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "KKR",
+        "Winner": "Capitals",
+        "Margin": "4 wickets",
+        "Groung": "Delhi",
+        "MatchDate": "Apr 20, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Sunrisers",
+        "Winner": "Super Kings",
+        "Margin": "7 wickets",
+        "Groung": "Chennai",
+        "MatchDate": "Apr 21, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "7 runs",
+        "Groung": "Lucknow",
+        "MatchDate": "Apr 22, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "Punjab Kings",
+        "Winner": "Punjab Kings",
+        "Margin": "13 runs",
+        "Groung": "Wankhede",
+        "MatchDate": "Apr 22, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Royals",
+        "Winner": "RCB",
+        "Margin": "7 runs",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 23, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Super Kings",
+        "Winner": "Super Kings",
+        "Margin": "49 runs",
+        "Groung": "Eden Gardens",
+        "MatchDate": "Apr 23, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "Capitals",
+        "Winner": "Capitals",
+        "Margin": "7 runs",
+        "Groung": "Hyderabad",
+        "MatchDate": "Apr 24, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Mumbai",
+        "Winner": "Titans",
+        "Margin": "55 runs",
+        "Groung": "Ahmedabad",
+        "MatchDate": "Apr 25, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "KKR",
+        "Winner": "KKR",
+        "Margin": "21 runs",
+        "Groung": "Bengaluru",
+        "MatchDate": "Apr 26, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Super Kings",
+        "Winner": "Royals",
+        "Margin": "32 runs",
+        "Groung": "Jaipur",
+        "MatchDate": "Apr 27, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "Super Giants",
+        "Winner": "Super Giants",
+        "Margin": "56 runs",
+        "Groung": "Mohali",
+        "MatchDate": "Apr 28, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "7 wickets",
+        "Groung": "Eden Gardens",
+        "MatchDate": "Apr 29, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "Sunrisers",
+        "Winner": "Sunrisers",
+        "Margin": "9 runs",
+        "Groung": "Delhi",
+        "MatchDate": "Apr 29, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Punjab Kings",
+        "Winner": "Punjab Kings",
+        "Margin": "4 wickets",
+        "Groung": "Chennai",
+        "MatchDate": "Apr 30, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "Royals",
+        "Winner": "Mumbai",
+        "Margin": "6 wickets",
+        "Groung": "Wankhede",
+        "MatchDate": "Apr 30, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "RCB",
+        "Winner": "RCB",
+        "Margin": "18 runs",
+        "Groung": "Lucknow",
+        "MatchDate": "May 1, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Capitals",
+        "Winner": "Capitals",
+        "Margin": "5 runs",
+        "Groung": "Ahmedabad",
+        "MatchDate": "May 2, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Super Kings",
+        "Winner": "no result",
+        "Margin": "-",
+        "Groung": "Lucknow",
+        "MatchDate": "May 3, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "Mumbai",
+        "Winner": "Mumbai",
+        "Margin": "6 wickets",
+        "Groung": "Mohali",
+        "MatchDate": "May 3, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "KKR",
+        "Winner": "KKR",
+        "Margin": "5 runs",
+        "Groung": "Hyderabad",
+        "MatchDate": "May 4, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "9 wickets",
+        "Groung": "Jaipur",
+        "MatchDate": "May 5, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Mumbai",
+        "Winner": "Super Kings",
+        "Margin": "6 wickets",
+        "Groung": "Chennai",
+        "MatchDate": "May 6, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "RCB",
+        "Winner": "Capitals",
+        "Margin": "7 wickets",
+        "Groung": "Delhi",
+        "MatchDate": "May 6, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Super Giants",
+        "Winner": "Titans",
+        "Margin": "56 runs",
+        "Groung": "Ahmedabad",
+        "MatchDate": "May 7, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "Sunrisers",
+        "Winner": "Sunrisers",
+        "Margin": "4 wickets",
+        "Groung": "Jaipur",
+        "MatchDate": "May 7, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Punjab Kings",
+        "Winner": "KKR",
+        "Margin": "5 wickets",
+        "Groung": "Eden Gardens",
+        "MatchDate": "May 8, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "RCB",
+        "Winner": "Mumbai",
+        "Margin": "6 wickets",
+        "Groung": "Wankhede",
+        "MatchDate": "May 9, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Capitals",
+        "Winner": "Super Kings",
+        "Margin": "27 runs",
+        "Groung": "Chennai",
+        "MatchDate": "May 10, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Royals",
+        "Winner": "Royals",
+        "Margin": "9 wickets",
+        "Groung": "Eden Gardens",
+        "MatchDate": "May 11, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "Titans",
+        "Winner": "Mumbai",
+        "Margin": "27 runs",
+        "Groung": "Wankhede",
+        "MatchDate": "May 12, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "Super Giants",
+        "Winner": "Super Giants",
+        "Margin": "7 wickets",
+        "Groung": "Hyderabad",
+        "MatchDate": "May 13, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "Punjab Kings",
+        "Winner": "Punjab Kings",
+        "Margin": "31 runs",
+        "Groung": "Delhi",
+        "MatchDate": "May 13, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Royals",
+        "Team 2": "RCB",
+        "Winner": "RCB",
+        "Margin": "112 runs",
+        "Groung": "Jaipur",
+        "MatchDate": "May 14, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "KKR",
+        "Winner": "KKR",
+        "Margin": "6 wickets",
+        "Groung": "Chennai",
+        "MatchDate": "May 14, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Sunrisers",
+        "Winner": "Titans",
+        "Margin": "34 runs",
+        "Groung": "Ahmedabad",
+        "MatchDate": "May 15, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Mumbai",
+        "Winner": "Super Giants",
+        "Margin": "5 runs",
+        "Groung": "Lucknow",
+        "MatchDate": "May 16, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "Capitals",
+        "Winner": "Capitals",
+        "Margin": "15 runs",
+        "Groung": "Dharamsala",
+        "MatchDate": "May 17, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Sunrisers",
+        "Team 2": "RCB",
+        "Winner": "RCB",
+        "Margin": "8 wickets",
+        "Groung": "Hyderabad",
+        "MatchDate": "May 18, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Punjab Kings",
+        "Team 2": "Royals",
+        "Winner": "Royals",
+        "Margin": "4 wickets",
+        "Groung": "Dharamsala",
+        "MatchDate": "May 19, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Capitals",
+        "Team 2": "Super Kings",
+        "Winner": "Super Kings",
+        "Margin": "77 runs",
+        "Groung": "Delhi",
+        "MatchDate": "May 20, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "KKR",
+        "Team 2": "Super Giants",
+        "Winner": "Super Giants",
+        "Margin": "1 run",
+        "Groung": "Eden Gardens",
+        "MatchDate": "May 20, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Mumbai",
+        "Team 2": "Sunrisers",
+        "Winner": "Mumbai",
+        "Margin": "8 wickets",
+        "Groung": "Wankhede",
+        "MatchDate": "May 21, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "RCB",
+        "Team 2": "Titans",
+        "Winner": "Titans",
+        "Margin": "6 wickets",
+        "Groung": "Bengaluru",
+        "MatchDate": "May 21, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Kings",
+        "Team 2": "Titans",
+        "Winner": "Super Kings",
+        "Margin": "15 runs",
+        "Groung": "Chennai",
+        "MatchDate": "May 23, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Super Giants",
+        "Team 2": "Mumbai",
+        "Winner": "Mumbai",
+        "Margin": "81 runs",
+        "Groung": "Chennai",
+        "MatchDate": "May 24, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Mumbai",
+        "Winner": "Titans",
+        "Margin": "62 runs",
+        "Groung": "Ahmedabad",
+        "MatchDate": "May 26, 2023",
+        "scorecard": "T20"
+    },
+    {
+        "Team 1": "Titans",
+        "Team 2": "Super Kings",
+        "Winner": "Super Kings",
+        "Margin": "5 wickets",
+        "Groung": "Ahmedabad",
+        "MatchDate": "May 28-29, 2023",
+        "scorecard": "T20"
+    }
+]
